@@ -25,7 +25,7 @@ are not included in the lists.
 | [Isomorƒ](https://isomorf.io)                             | Startup      | Programmers     | ?               | ?              | 2018
 | [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell        | 2021
 | [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java           | 2021
-| [OCell](http://kevinmahoney.co.uk/ocell/).                | -            | Programmers     | New             | ?              | 2020
+| [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?              | 2020
 | [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
 | [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2017
 | [Programming with Plain Words][1]                         | Crowdfunded  | Educational     | New             | ?              | 2017
