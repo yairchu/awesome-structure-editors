@@ -1,6 +1,6 @@
 # List of structural editors
 
-An extensive list of projectional and structural editors (not curated)
+An extensive list of projectional and structural editors.
 
 This page lists projectional and structural editors in several categories.
 It only includes "active projects", so old systems and articles, such as many of those listed in
