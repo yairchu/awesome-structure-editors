@@ -29,6 +29,7 @@ are not included in the lists.
 | [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
 | [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2017
 | [Programming with Plain Words][1]                         | Crowdfunded  | Educational     | New             | ?              | 2017
+| [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2021
 | [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | 2018
 | [Zinal](https://gitlab.com/nickcollins/zinal)             | -            | Programmers     | Scheme like     | Scheme         | 2017
 
