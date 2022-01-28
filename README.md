@@ -21,9 +21,10 @@ are not included in the lists.
 | [Foundry](https://github.com/int-index/foundry)           | -            | ?               | Morte           | Haskell        | 2021
 | [Forest](https://github.com/tehwalris/forest)             | -            | Programmers     | TypeScript      | TypeScript     | 2021
 | [Fructure](https://fructure-editor.tumblr.com)            | -            | ?               | Scheme like     | Racket         | 2020
+| [Frugel](https://github.com/cdfa/frugel)                  | Academic     | Programmers     | New, Functional | Haskell        | 2022
 | [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml          | 2021
 | [Isomorƒ](https://isomorf.io)                             | Startup      | Programmers     | ?               | ?              | 2018
-| [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell        | 2021
+| [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell        | 2022
 | [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java           | 2021
 | [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?              | 2020
 | [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
