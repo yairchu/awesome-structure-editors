@@ -32,6 +32,7 @@ are not included in the lists.
 | [Programming with Plain Words][1]                         | Crowdfunded  | Educational     | New             | ?              | 2017
 | [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2021
 | [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | 2018
+| [Tofu](https://github.com/Gregoor/tofu)                   | -            | Programmers     | TypeScript      | TypeScript     | 2022
 | [Zinal](https://gitlab.com/nickcollins/zinal)             | -            | Programmers     | Scheme like     | Scheme         | 2017
 
 [1]: https://www.patreon.com/posts/screenshot-with-14865073
