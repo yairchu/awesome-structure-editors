@@ -25,7 +25,7 @@ are not included in the lists.
 | [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml          | 2021
 | [Isomorƒ](https://isomorf.io)                             | Startup      | Programmers     | ?               | ?              | 2018
 | [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell        | 2022
-| [Lisperanto](https://github.com/uprun/lisperanto)         | -            | Programmers     | ?               | C#             | 2022
+| [Lisperanto](https://github.com/uprun/lisperanto)         | -            | Programmers     | New             | JavaScript     | 2022
 | [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java           | 2021
 | [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?              | 2020
 | [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
