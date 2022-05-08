@@ -18,8 +18,8 @@ are not included in the lists.
 | [Duet Epsilon](https://chrisdone.com/toys/duet-epsilon/)  | -            | Educational     | Haskell subset  | ?              | ?
 | [Envision](http://dimitar-asenov.github.io/Envision/)     | Academic     | Programmers     | Java/C++ like   | C++            | 2018
 | [Expression of Change](http://expressionsofchange.org)    | -            | Programmers     | Lisp like       | ?              | 2018
-| [Foundry](https://github.com/int-index/foundry)           | -            | ?               | Morte           | Haskell        | 2021
-| [Forest](https://github.com/tehwalris/forest)             | -            | Programmers     | TypeScript      | TypeScript     | 2021
+| [Foundry](https://github.com/int-index/foundry)           | -            | ?               | Morte           | Haskell        | 2022
+| [Forest](https://github.com/tehwalris/forest)             | -            | Programmers     | TypeScript      | TypeScript     | 2022
 | [Fructure](https://fructure-editor.tumblr.com)            | -            | ?               | Scheme like     | Racket         | 2020
 | [Frugel](https://github.com/cdfa/frugel)                  | Academic     | Programmers     | New, Functional | Haskell        | 2022
 | [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml          | 2021
@@ -29,9 +29,9 @@ are not included in the lists.
 | [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java           | 2021
 | [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?              | 2020
 | [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
-| [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2017
+| [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2021
 | [Programming with Plain Words][1]                         | Crowdfunded  | Educational     | New             | ?              | 2017
-| [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2021
+| [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2022
 | [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | 2018
 | [Tofu](https://github.com/Gregoor/tofu)                   | -            | Programmers     | TypeScript      | TypeScript     | 2022
 | [Zinal](https://gitlab.com/nickcollins/zinal)             | -            | Programmers     | Scheme like     | Scheme         | 2017
