@@ -16,13 +16,13 @@ are not included in the lists.
 | [Cirru](http://cirru.org)                                 | -            | Programmers     | Clojure         | Clojure        | 2021
 | [Dark](https://darklang.com)                              | Startup      | Programmers     | New, Functional | ?              | 2021
 | [Duet Epsilon](https://chrisdone.com/toys/duet-epsilon/)  | -            | Educational     | Haskell subset  | ?              | ?
-| [Envision](http://dimitar-asenov.github.io/Envision/)     | Academic     | Programmers     | Java/C++ like   | C++            | [2018](https://github.com/dimitar-asenov/Envision)
-| [Expression of Change](http://expressionsofchange.org)    | -            | Programmers     | Lisp like       | ?              | [2018](https://github.com/expressionsofchange/nerf1)
+| [Envision](http://dimitar-asenov.github.io/Envision/)     | Academic     | Programmers     | Java/C++ like   | C++            | [2022](https://github.com/dimitar-asenov/Envision)
+| [Expression of Change](http://expressionsofchange.org)    | -            | Programmers     | Lisp like       | ?              | [2019](https://github.com/expressionsofchange/nerf1)
 | [Foundry](https://github.com/int-index/foundry)           | -            | ?               | Morte           | Haskell        | 2022
 | [Forest](https://github.com/tehwalris/forest)             | -            | Programmers     | TypeScript      | TypeScript     | 2022
 | [Fructure](https://fructure-editor.tumblr.com)            | -            | ?               | Scheme like     | Racket         | [2020](https://github.com/disconcision/fructure)
 | [Frugel](https://github.com/cdfa/frugel)                  | Academic     | Programmers     | New, Functional | Haskell        | 2022
-| [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml          | [2021](https://github.com/hazelgrove/hazel)
+| [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml          | [2022](https://github.com/hazelgrove/hazel)
 | [Isomorƒ](https://isomorf.io)                             | Startup      | Programmers     | ?               | ?              | 2018
 | [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell        | [2022](https://github.com/lamdu/lamdu)
 | [Lisperanto](https://github.com/uprun/lisperanto)         | -            | Programmers     | New             | JavaScript     | 2022
