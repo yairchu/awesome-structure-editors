@@ -14,7 +14,7 @@ are not included in the lists.
 | [Alfa](http://www.cse.chalmers.se/~hallgren/Alfa/)        | Academic     | Programmers     | Agda            | Haskell        | 2020
 | [Cedalion](http://cedalion.sourceforge.net)               | Academic     | ?               | ?               | ?              | 2013
 | [Cirru](http://cirru.org)                                 | -            | Programmers     | Clojure         | Clojure        | 2021
-| [Dark](https://darklang.com)                              | Startup      | Programmers     | New, Functional | ?              | 2021
+| [Dark](https://darklang.com)                              | Startup      | Programmers     | New, Functional | ?              | [2022](https://github.com/darklang/dark)
 | [Duet Epsilon](https://chrisdone.com/toys/duet-epsilon/)  | -            | Educational     | Haskell subset  | ?              | ?
 | [Envision](http://dimitar-asenov.github.io/Envision/)     | Academic     | Programmers     | Java/C++ like   | C++            | [2022](https://github.com/dimitar-asenov/Envision)
 | [Expression of Change](http://expressionsofchange.org)    | -            | Programmers     | Lisp like       | ?              | [2019](https://github.com/expressionsofchange/nerf1)
