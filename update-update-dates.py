@@ -28,8 +28,10 @@ def new_line(line):
     if repo is None:
         return
 
-    date = requests.get(f"https://api.github.com/repos/{repo}/commits?per_page=1").json()[
-        0]["commit"]["committer"]["date"]
+    json = requests.get(f"https://api.github.com/repos/{repo}/commits?per_page=1").json()
+    if isinstance(json, dict):
+        raise RuntimeError(f"Rejected by GitHub: {json}")
+    date = json[0]["commit"]["committer"]["date"]
     year = date.split("-", 1)[0]
     if yearlink is not None:
         year = f"[{year}]({yearlink})"
