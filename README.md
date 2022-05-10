@@ -32,7 +32,7 @@ are not included in the lists.
 | [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2021
 | [Programming with Plain Words][1]                         | Crowdfunded  | Educational     | New             | ?              | 2017
 | [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2022
-| [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | 2018
+| [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | [2022](https://github.com/JonathanMEdwards/subtext10)
 | [Tofu](https://github.com/Gregoor/tofu)                   | -            | Programmers     | TypeScript      | TypeScript     | 2022
 | [Zinal](https://gitlab.com/nickcollins/zinal)             | -            | Programmers     | Scheme like     | Scheme         | 2017
 
