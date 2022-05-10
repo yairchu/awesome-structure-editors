@@ -1,3 +1,9 @@
+"""
+Script to update the "Last known update" column in the structural editors table.
+
+It uses the GitHub CLI (requirement).
+"""
+
 import datetime
 import json
 import subprocess
@@ -8,7 +14,8 @@ github_repo_prefix = "https://github.com/"
 
 
 def get_github_repo(markdown_hyperlink):
-    assert markdown_hyperlink.startswith("[") and markdown_hyperlink.endswith(")")
+    assert markdown_hyperlink.startswith(
+        "[") and markdown_hyperlink.endswith(")")
     content, link = markdown_hyperlink[1:-1].split("](", 1)
     if not link.startswith(github_repo_prefix):
         return markdown_hyperlink, None
@@ -39,7 +46,8 @@ def new_line(line):
         return
 
     key = "pushedAt"
-    result = subprocess.check_output(["gh", "repo", "view", repo, "--json", key])
+    result = subprocess.check_output(
+        ["gh", "repo", "view", repo, "--json", key])
     date = json.loads(result.decode("UTF-8"))[key]
     year = int(date.split("-", 1)[0])
     if yearlink is not None:
