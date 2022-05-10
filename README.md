@@ -1,5 +1,17 @@
 # List of structural editors
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Structural code editor projects](#structural-code-editor-projects)
+  - [Blocks Programming Editors](#blocks-programming-editors)
+- [Visual code editor projects](#visual-code-editor-projects)
+- [Spreadsheet-based projects](#spreadsheet-based-projects)
+- [Other notable projects](#other-notable-projects)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 An extensive list of projectional and structural editors.
 
 This page lists projectional and structural editors in several categories.
