@@ -9,15 +9,9 @@
 - [Visual code editor projects](#visual-code-editor-projects)
 - [Spreadsheet-based projects](#spreadsheet-based-projects)
 - [Other notable projects](#other-notable-projects)
+- [Related lists](#related-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-An extensive list of projectional and structural editors.
-
-This page lists projectional and structural editors in several categories.
-It only includes "active projects", so old systems and articles, such as many of those listed in
-[Jonathan Edwards' gallery of programming UIs](http://alarmingdevelopment.org/?p=1068)
-are not included in the lists.
 
 ## Structural code editor projects
 
@@ -99,3 +93,9 @@ Not sure in which category these projects fit in:
 | [Cycle.js Dev Tools](https://cycle.js.org)                    | ?            | Dataflow debugging       | TypeScript
 | [JSON Editor](https://github.com/json-editor/json-editor.git) | Open Source  | JSON schema-based editor | JavaScript
 | [Greenfoot/BlueJ](https://www.greenfoot.org/)                 | Academic     | Structure-text hybrid    | Java
+
+## Related lists
+
+* [The whole code catalog](https://futureofcoding.org/catalog/) by Steve Krouse (sponsored by Dark). An in-depth review of 23 structural and low-code projects from 2019
+* [Gallery of programming UIs](http://alarmingdevelopment.org/?p=1068) by Jonathan Edwards
+* [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/) by Eric Hosick
