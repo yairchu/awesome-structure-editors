@@ -5,6 +5,7 @@
 **Table of Contents**
 
 - [Structural code editor projects](#structural-code-editor-projects)
+  - [Unreleased Projects](#unreleased-projects)
   - [Blocks Programming Editors](#blocks-programming-editors)
 - [Visual code editor projects](#visual-code-editor-projects)
 - [Spreadsheet-based projects](#spreadsheet-based-projects)
@@ -36,16 +37,19 @@
 | [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?              | 2020
 | [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
 | [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2021
-| [Programming with Plain Words][1]                         | Crowdfunded  | Educational     | New             | ?              | 2017
 | [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2022
 | [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | [2022](https://github.com/JonathanMEdwards/subtext10)
 | [Tofu](https://github.com/Gregoor/tofu)                   | -            | Programmers     | TypeScript      | TypeScript     | 2022
 | [Zinal](https://gitlab.com/nickcollins/zinal)             | -            | Programmers     | Scheme like     | Scheme         | 2017
 
-[1]: https://www.patreon.com/posts/screenshot-with-14865073
-
 * "Functional" language refers to a statically typed purely functional language.
 * Some of these store the code as text files, so they are structural but not projectional
+
+### Unreleased Projects
+
+* [Dion Systems](https://dion.systems)
+* [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073)
+* [Roc](https://www.roc-lang.org)
 
 ### Blocks Programming Editors
 
