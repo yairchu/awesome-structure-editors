@@ -35,7 +35,6 @@
 | [Lisperanto](https://github.com/uprun/lisperanto)         | -            | Programmers     | New             | JavaScript     | 2022
 | [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java           | 2021
 | [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?              | 2020
-| [Omni](https://github.com/daniel-kun/omni)                | -            | Programmers     | New             | C++            | 2017
 | [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp    | 2021
 | [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2022
 | [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | [2022](https://github.com/JonathanMEdwards/subtext10)
