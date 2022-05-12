@@ -20,9 +20,11 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 
 ## Active structural code editor projects
 
-| Project                                                   | Organization | Target crowd    | Target language | Implemented in | Last known update
-|----------------------------------------------------------:|:-------------|:----------------|:----------------|:---------------|:------------------
-| [Alfa](http://www.cse.chalmers.se/~hallgren/Alfa/)        | Academic     | Programmers     | Agda            | Haskell        | 2020
+This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2019.
+
+| Project | Organization | Target crowd | Target language | Implemented in | Last known update
+|--------:|:-------------|:-------------|:----------------|:---------------|:------------------
+| [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | Academic | Programmers | Agda | Haskell | 2020
 | [Cirru](http://cirru.org)                                 | -            | Programmers     | Clojure         | Clojure        | [2022](https://github.com/Cirru/calcit-editor)
 | [Dark](https://darklang.com)                              | Startup      | Programmers     | New, Functional | ?              | [2022](https://github.com/darklang/dark)
 | [Duet Epsilon](https://chrisdone.com/toys/duet-epsilon/)  | -            | Educational     | Haskell subset  | ?              | ?
