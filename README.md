@@ -1,8 +1,12 @@
 # Awesome Structure Editors [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+A list of structural/projectional code editor projects.
+
+Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-structure-editors/issues)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+**Contents**
 
 - [Structural code editor projects](#structural-code-editor-projects)
   - [Unreleased Projects](#unreleased-projects)
@@ -14,13 +18,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Structural code editor projects
+## Active structural code editor projects
 
-| System                                                    | Organization | Target crowd    | Target language | Implemented in | Last known update
+| Project                                                   | Organization | Target crowd    | Target language | Implemented in | Last known update
 |----------------------------------------------------------:|:-------------|:----------------|:----------------|:---------------|:------------------
 | [Alfa](http://www.cse.chalmers.se/~hallgren/Alfa/)        | Academic     | Programmers     | Agda            | Haskell        | 2020
-| [Cedalion](http://cedalion.sourceforge.net)               | Academic     | ?               | ?               | ?              | 2013
-| [Cirru](http://cirru.org)                                 | -            | Programmers     | Clojure         | Clojure        | 2021
+| [Cirru](http://cirru.org)                                 | -            | Programmers     | Clojure         | Clojure        | [2022](https://github.com/Cirru/calcit-editor)
 | [Dark](https://darklang.com)                              | Startup      | Programmers     | New, Functional | ?              | [2022](https://github.com/darklang/dark)
 | [Duet Epsilon](https://chrisdone.com/toys/duet-epsilon/)  | -            | Educational     | Haskell subset  | ?              | ?
 | [Envision](http://dimitar-asenov.github.io/Envision/)     | Academic     | Programmers     | Java/C++ like   | C++            | [2022](https://github.com/dimitar-asenov/Envision)
@@ -30,7 +33,6 @@
 | [Fructure](https://fructure-editor.tumblr.com)            | -            | ?               | Scheme like     | Racket         | [2020](https://github.com/disconcision/fructure)
 | [Frugel](https://github.com/cdfa/frugel)                  | Academic     | Programmers     | New, Functional | Haskell        | 2022
 | [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml          | [2022](https://github.com/hazelgrove/hazel)
-| [Isomorƒ](https://isomorf.io)                             | Startup      | Programmers     | ?               | ?              | 2018
 | [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell        | [2022](https://github.com/lamdu/lamdu)
 | [Lisperanto](https://github.com/uprun/lisperanto)         | -            | Programmers     | New             | JavaScript     | 2022
 | [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java           | 2021
