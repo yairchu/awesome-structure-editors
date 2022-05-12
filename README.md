@@ -41,7 +41,6 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 | [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust           | 2022
 | [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?              | [2022](https://github.com/JonathanMEdwards/subtext10)
 | [Tofu](https://github.com/Gregoor/tofu)                   | -            | Programmers     | TypeScript      | TypeScript     | 2022
-| [Zinal](https://gitlab.com/nickcollins/zinal)             | -            | Programmers     | Scheme like     | Scheme         | 2017
 
 * "Functional" language refers to a statically typed purely functional language.
 * Some of these store the code as text files, so they are structural but not projectional
