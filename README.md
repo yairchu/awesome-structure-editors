@@ -59,11 +59,15 @@ Legend:
 ### Unreleased Projects
 
 * [Dion Systems](https://dion.systems)
-* [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073)
-* [Roc](https://www.roc-lang.org)
-* [SplootCode](https://splootcode.io)
+* [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) - An educational editor for a structured English-like language. No update since 2017 afaik
+* [Roc](https://www.roc-lang.org) - A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864)
+* [SplootCode](https://splootcode.io) - A structural editor for Python, aimed towards beginners
 
 ### Concluded projects
+
+* [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software): Intentional software started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquihired by Microsoft at 2017, with the original projects being canceled afaik.
+* [Omni](https://github.com/daniel-kun/omni)
+* [Zinal](https://gitlab.com/nickcollins/zinal)
 
 ### Blocks Programming Editors
 
