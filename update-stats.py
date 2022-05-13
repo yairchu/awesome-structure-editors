@@ -1,5 +1,5 @@
 """
-Script to update the "Last known update" column in the structural editors table.
+Script to update the "Last known update" and "stars" columns
 
 It uses the GitHub CLI (requirement).
 """
@@ -31,6 +31,7 @@ def new_line(line):
 
     parts = line.split("|")
     name = parts[1].strip()
+    prev_stars = parts[-2].strip()
     prev_year = parts[-1].strip()
     if name.endswith(")"):
         _, repo = get_github_repo(name)
@@ -41,19 +42,31 @@ def new_line(line):
         return
 
     assert int(prev_year) <= cur_year
-    if int(prev_year) == cur_year:
-        # Current, no need to check if updated
-        return
 
-    key = "pushedAt"
-    result = subprocess.check_output(
-        ["gh", "repo", "view", repo, "--json", key])
-    date = json.loads(result.decode("UTF-8"))[key]
+    update_key = "pushedAt"
+    stars_key = "stargazerCount"
+    result_raw = subprocess.check_output(
+        ["gh", "repo", "view", repo, "--json", f"{update_key},{stars_key}"])
+    result = json.loads(result_raw.decode("UTF-8"))
+    stars = result[stars_key]
+    stars_equiv = prev_stars if stars == 0 and prev_stars != "-" else stars
+    date = result[update_key]
     year = int(date.split("-", 1)[0])
     if yearlink is not None:
         year = f"[{year}]({yearlink})"
-    head = line.rsplit("| ", 1)[0]
-    return f"{head}| {year}\n"
+    head = line.rsplit("| ", 2)[0]
+    return f"{head}| {stars_equiv} | {year}\n"
+
+
+def line_order(line):
+    head, stars, prev_year = [x.strip() for x in line.rsplit("|", 2)]
+    if prev_year.endswith(")"):
+        prev_year, _ = get_github_repo(prev_year)
+    return -int(stars) if stars.isdigit() else 0, -int(prev_year), head
+
+
+def process_table(prev):
+    return sorted([new_line(line) or line for line in prev], key=line_order)
 
 
 def new_lines():
@@ -66,11 +79,13 @@ def new_lines():
         print("Did not find table")
         sys.exit(1)
     yield next(lines)
+    table = []
     for line in lines:
         if not line.strip():
+            yield from process_table(table)
             yield line
             break
-        yield new_line(line) or line
+        table.append(line)
     yield from lines
 
 
