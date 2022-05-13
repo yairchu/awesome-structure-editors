@@ -65,7 +65,8 @@ Legend:
 
 ### Concluded projects
 
-* [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software): Intentional software started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquihired by Microsoft at 2017, with the original projects being canceled afaik.
+* [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) (1990s - 2017) started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquihired by Microsoft at 2017, with the original projects being canceled (afaik).
+* [Eve](https://futureofcoding.org/essays/eve/) (2014 - 2018) was a startup that made a serie of experimental programming systems and shut down in 2018.
 * [Omni](https://github.com/daniel-kun/omni)
 * [Zinal](https://gitlab.com/nickcollins/zinal)
 
