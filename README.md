@@ -28,7 +28,7 @@ This list includes projects which are actively developed or were maintained rece
 
 Projects are also summarized with unicode or emoji "flags" (their meanings explained in legend below)
 
-| Project | Flags | Description | Written in | ⭐️ | Last update
+| Project | Flags | Description | Written in | ⭐️ | Updated
 |--------:|:-----:|:------------|:---------------|:---|:------------------
 | [Unison](https://unisonweb.org) | $ 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor but pivoted to a cloud programming language | Haskell | 4371 | [2022](https://github.com/unisonweb/unison)
 | [Lamdu](http://www.lamdu.org) | ⌨️ 文 👶 λ  | Language with live programming and novel UX for type errors | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
