@@ -74,22 +74,22 @@ Legend:
 Blocks Programming languages/editors are a specific kind of structural programming editors,
 where the code is structured in a manner similar to "lego blocks" supporting "drag and drop" editing.
 
-| System                                     | Organization | Target crowd    | Implemented in
-|-------------------------------------------:|:-------------|:----------------|:--------------
-| [Alice](http://www.alice.org)              | Academic     | Educational     | Java
-| [GP](https://harc.ycr.org/project/gp/)     | Academic     | Non-programmers | ?
-| [Hopscotch](https://gethopscotch.com)      | Commercial   | Educational     | ?
-| [Microsoft MakeCode](https://makecode.com) | Commerical   | Educational     | ?
-| [Scratch](https://scratch.mit.edu)         | Academic     | Educational     | JavaScript
-| [Snap](https://snap.berkeley.edu)          | Academic     | Educational     | ?
+| System                                     | Flags | Written in
+|-------------------------------------------:|:-----:|:-----------
+| [Alice](http://www.alice.org)              | 🎓 | Java
+| [GP](https://harc.ycr.org/project/gp/)     | 🎓 | ?
+| [Hopscotch](https://gethopscotch.com)      | $ | ?
+| [Microsoft MakeCode](https://makecode.com) | $ 👶 | ?
+| [Scratch](https://scratch.mit.edu)         | 🎓 文 👶 | JavaScript
+| [Snap](https://snap.berkeley.edu)          | 🎓 文 | ?
 
 ## Visual code editor projects
 
-| System                                        | Organization | Target language | Implemented in
-|----------------------------------------------:|:-------------|:----------------|:--------------
-| [Enso](http://www.enso.org)                   | Startup      | New language    | Haskell
-| [Noflo](https://noflojs.org/)                 | -            | JavaScript      | CoffeeScript
-| [Viskell](https://github.com/viskell/viskell) | -            | Haskell-like    | Java
+| System                                        | Flags | Written in
+|----------------------------------------------:|:-----:|:-----------
+| [Enso](http://www.enso.org)                   | $ 👶 | Haskell
+| [Noflo](https://noflojs.org/)                 | ☕ | CoffeeScript
+| [Viskell](https://github.com/viskell/viskell) | λ | Java
 
 This list does not include domain-oriented systems like:
 [PureData](https://puredata.info),
@@ -99,22 +99,22 @@ This list does not include domain-oriented systems like:
 
 ## Spreadsheet-based projects
 
-| System                                                              | Organization | Implemented in
-|--------------------------------------------------------------------:|:-------------|:--------------
-| [Flowsheets](http://tinyletter.com/Flowsheets/)                     | ?            | ?
-| [Mesh](https://github.com/chrispsn/mesh)                            | -            | JavaScript
-| [Object Spreadsheets](https://sdg.csail.mit.edu/projects/objsheets) | Academic     | TypeScript
+| System                                                              | Flags | Written in
+|--------------------------------------------------------------------:|:-----:|:--------------
+| [Flowsheets](http://tinyletter.com/Flowsheets/)                     | ? | ?
+| [Mesh](https://github.com/chrispsn/mesh)                            | - | JavaScript
+| [Object Spreadsheets](https://sdg.csail.mit.edu/projects/objsheets) | 🎓 | TypeScript
 
 ## Other notable projects
 
 Not sure in which category these projects fit in:
 
-| System                                                        | Organization | Concept                  | Implemented in
-|--------------------------------------------------------------:|:-------------|:-------------------------|:--------------
-| [Apparatus](http://aprt.us)                                   | Academic     | Hybric diagrams editor   | CoffeeScript
-| [Cycle.js Dev Tools](https://cycle.js.org)                    | ?            | Dataflow debugging       | TypeScript
-| [JSON Editor](https://github.com/json-editor/json-editor.git) | Open Source  | JSON schema-based editor | JavaScript
-| [Greenfoot/BlueJ](https://www.greenfoot.org/)                 | Academic     | Structure-text hybrid    | Java
+| System                                                        | Flags | Description              | Written in
+|--------------------------------------------------------------:|:-----:|:-------------------------|:--------------
+| [Apparatus](http://aprt.us)                                   | 🎓 | Hybric diagrams editor | CoffeeScript
+| [Cycle.js Dev Tools](https://cycle.js.org)                    | | Dataflow debugging | TypeScript
+| [JSON Editor](https://github.com/json-editor/json-editor.git) | | JSON schema-based editor | JavaScript
+| [Greenfoot/BlueJ](https://www.greenfoot.org/)                 | 🎓 | Structure-text hybrid | Java
 
 ## Related lists
 
