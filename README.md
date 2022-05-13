@@ -58,10 +58,10 @@ Legend:
 
 ### Unreleased Projects
 
-* [Dion Systems](https://dion.systems)
-* [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) - An educational editor for a structured English-like language. No update since 2017 afaik
 * [Roc](https://www.roc-lang.org) - A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864)
 * [SplootCode](https://splootcode.io) - A structural editor for Python, aimed towards beginners
+* [Dion Systems](https://dion.systems)
+* [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) - An educational editor for a structured English-like language. No update since 2017 afaik
 
 ### Concluded projects
 
