@@ -4,11 +4,15 @@ A list of structural/projectional code editor projects.
 
 Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-structure-editors/issues)
 
+## Foreword
+
+Projectional programming is an idea that at least some people think holds a lot of promise, as demonstrated by list, but has not yet proven effective (or at least hasn't broken into the mainstream). By the wealth of past and ongoing projects, it is apparently a difficult problem (or an impossible one), but hopefully some of these projects will succeed in bringing it to the mainstream!
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
 
-- [Structural code editor projects](#structural-code-editor-projects)
+- [Active structural code editor projects](#active-structural-code-editor-projects)
   - [Unreleased Projects](#unreleased-projects)
   - [Blocks Programming Editors](#blocks-programming-editors)
 - [Visual code editor projects](#visual-code-editor-projects)
@@ -22,52 +26,44 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 
 This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2019.
 
-Properties of projects are summarized with emojis (their meanings explained in legend below)
+Projects are also summarized with unicode or emoji "flags" (their meanings explained in legend below)
 
-| Project | Target language | Implemented in | ⭐️ | Last known update
-|--------:|:----------------|:---------------|:---|:------------------
-| [Lamdu](http://www.lamdu.org) 👶λ                          | New, Functional | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
-| [MPS](https://www.jetbrains.com/mps/) $🔨                   | General purpose | Java | 1302 | [2022](https://github.com/JetBrains/MPS)
-| [Dark](https://darklang.com) $👶λ                          | New, Functional | ? | 1031 | [2022](https://github.com/darklang/dark)
-| [Hazel](http://hazel.org) 🎓👶λ                             | New, Functional | OCaml | 466 | [2022](https://github.com/hazelgrove/hazel)
-| [Sapling](https://github.com/kneasle/sapling)             | General purpose | Rust | 354 | 2022
-| [Fructure](https://fructure-editor.tumblr.com)｟           | Scheme like     | Racket | 334 | [2020](https://github.com/disconcision/fructure)
-| [Cirru](http://cirru.org) ｟                               | Clojure         | Clojure | 194 | [2022](https://github.com/Cirru/calcit-editor)
-| [ProjecturEd](https://github.com/projectured/projectured) 👨‍👩‍👧‍👦 | General purpose | Common Lisp | 125 | 2021
-| [Envision](http://dimitar-asenov.github.io/Envision/) 🎓 | Java/C++ like   | C++ | 84 | [2022](https://github.com/dimitar-asenov/Envision)
-| [Tofu](https://github.com/Gregoor/tofu) ☕ | TypeScript      | TypeScript | 83 | 2022
-| [Subtext](http://www.subtext-lang.org) 👶 | New             | ? | 82 | [2022](https://github.com/JonathanMEdwards/subtext10)
-| [Foundry](https://github.com/int-index/foundry) λ | Morte           | Haskell | 27 | 2022
-| [Lisperanto](https://github.com/uprun/lisperanto) ｟ | New             | JavaScript | 24 | 2022
-| [Forest](https://github.com/tehwalris/forest) ☕ | TypeScript      | TypeScript | 18 | 2022
-| [Frugel](https://github.com/cdfa/frugel) 🎓👶λ | New, Functional | Haskell | 6 | 2022
-| [Expression of Change](http://expressionsofchange.org) | Lisp like       | Python | 5 | [2019](https://github.com/expressionsofchange/nerf1)
-| [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) 🎓λ | Agda | Haskell | - | 2020
-| [OCell](http://kevinmahoney.co.uk/ocell/) 👶 | New             | ? | - | 2020
+| Project | Flags | Description | Implemented in | ⭐️ | Last known update
+|--------:|:-----:|:------------|:---------------|:---|:------------------
+| [Unison](https://unisonweb.org) | $ 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor but pivoted to a cloud programming language | Haskell | 4371 | [2022](https://github.com/unisonweb/unison)
+| [Lamdu](http://www.lamdu.org) | ⌨️ 文 👶 λ  | Language with live programming and novel UX for type errors | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
+| [MPS](https://www.jetbrains.com/mps/) | $ ⌨️ 🔨 | Language workbench for projectional languages | Java | 1302 | [2022](https://github.com/JetBrains/MPS)
+| [Dark](https://darklang.com) | $ ⌨️ 🌐 👶 λ | Platform and language as a service for app backends and web | ? | 1031 | [2022](https://github.com/darklang/dark)
+| [Hazel](http://hazel.org) | 🎓 ⌨️ 🌐 👶λ | Language with live programming and types holes | Reason | 466 | [2022](https://github.com/hazelgrove/hazel)
+| [Sapling](https://github.com/kneasle/sapling) | | ? | Rust | 354 | 2022
+| [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | 335 | [2020](https://github.com/disconcision/fructure)
+| [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | 194 | [2022](https://github.com/Cirru/calcit-editor)
+| [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 125 | 2021
+| [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | 84 | [2022](https://github.com/dimitar-asenov/Envision)
+| [Tofu](https://github.com/Gregoor/tofu) | ☕ | VSCode extension for structured editing of JavaScript and TypeScript | TypeScript | 83 | 2022
+| [Subtext](http://www.subtext-lang.org) | 👶 | A serie of inspiring presentations and projects exploring ideas in projectional editing | TypeScript | 82 | [2022](https://github.com/JonathanMEdwards/subtext10)
+| [Foundry](https://github.com/int-index/foundry) | λ | A projectional editor for the Morte language | Haskell | 27 | 2022
+| [Lisperanto](https://github.com/uprun/lisperanto) | ｟🌐 | IDE for Lisp-like language | JavaScript | 24 | 2022
+| [Forest](https://github.com/tehwalris/forest) | ☕ | TypeScript | TypeScript | 18 | 2022
+| [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 6 | 2022
+| [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
+| [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
 
-### Legend
-
-* Project structure
-  * $ - Commercial
-  * 🎓 - Academic
-* Target languages
-  * 👶 - New language
-  * λ - Pure functional
-  * ｟ - Lisp-based
-  * ☕ - Javascript or Typescript
-* Status
-  * 🔨 - Is in some production use
-* Target audience
-  * 👨‍👩‍👧‍👦 - For everyone (not intended towards programmers)
-
-* "Functional" language refers to a statically typed purely functional language.
-* Some of these store the code as text files, so they are structural but not projectional
+Legend:
+* Project structure: $ Commercial, 🎓 Academic
+* Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ Javascript/Typescript
+* Status:  🔨 Is in some production use
+* Target audience: 👨‍👩‍👧‍👦 For everyone (not intended towards programmers)
+* Other properties: ⌨️ Text editing like UX, 🌐 Works in browser, 文 Localization support
 
 ### Unreleased Projects
 
 * [Dion Systems](https://dion.systems)
 * [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073)
 * [Roc](https://www.roc-lang.org)
+* [SplootCode](https://splootcode.io)
+
+### Concluded projects
 
 ### Blocks Programming Editors
 
