@@ -22,26 +22,43 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 
 This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2019.
 
-| Project | Organization | Target crowd | Target language | Implemented in | ⭐️ | Last known update
-|--------:|:-------------|:-------------|:----------------|:---------------|:---|:------------------
-| [Lamdu](http://www.lamdu.org)                             | -            | Programmers     | New, Functional | Haskell     | 1750 | [2022](https://github.com/lamdu/lamdu)
-| [MPS](https://www.jetbrains.com/mps/)                     | Commercial   | General purpose | General purpose | Java        | 1302 | [2022](https://github.com/JetBrains/MPS)
-| [Dark](https://darklang.com)                              | Startup      | Programmers     | New, Functional | ?           | 1031 | [2022](https://github.com/darklang/dark)
-| [Hazel](http://hazel.org)                                 | Academic     | Programmers     | New, Functional | OCaml       | 466 | [2022](https://github.com/hazelgrove/hazel)
-| [Sapling](https://github.com/kneasle/sapling)             | -            | ?               | General purpose | Rust        | 354 | 2022
-| [Fructure](https://fructure-editor.tumblr.com)            | -            | ?               | Scheme like     | Racket      | 334 | [2020](https://github.com/disconcision/fructure)
-| [Cirru](http://cirru.org)                                 | -            | Programmers     | Clojure         | Clojure     | 194 | [2022](https://github.com/Cirru/calcit-editor)
-| [ProjecturEd](https://github.com/projectured/projectured) | -            | General purpose | General purpose | Common Lisp | 125 | 2021
-| [Envision](http://dimitar-asenov.github.io/Envision/)     | Academic     | Programmers     | Java/C++ like   | C++         | 84 | [2022](https://github.com/dimitar-asenov/Envision)
-| [Tofu](https://github.com/Gregoor/tofu)                   | -            | Programmers     | TypeScript      | TypeScript  | 83 | 2022
-| [Subtext](http://www.subtext-lang.org)                    | Academic     | Programmers     | New             | ?           | 82 | [2022](https://github.com/JonathanMEdwards/subtext10)
-| [Foundry](https://github.com/int-index/foundry)           | -            | ?               | Morte           | Haskell     | 27 | 2022
-| [Lisperanto](https://github.com/uprun/lisperanto)         | -            | Programmers     | New             | JavaScript  | 24 | 2022
-| [Forest](https://github.com/tehwalris/forest)             | -            | Programmers     | TypeScript      | TypeScript  | 18 | 2022
-| [Frugel](https://github.com/cdfa/frugel)                  | Academic     | Programmers     | New, Functional | Haskell     | 6 | 2022
-| [Expression of Change](http://expressionsofchange.org)    | -            | Programmers     | Lisp like       | ?           | 5 | [2019](https://github.com/expressionsofchange/nerf1)
-| [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | Academic | Programmers | Agda | Haskell | - | 2020
-| [OCell](http://kevinmahoney.co.uk/ocell/)                 | -            | Programmers     | New             | ?           | - | 2020
+Properties of projects are summarized with emojis (their meanings explained in legend below)
+
+| Project | Target language | Implemented in | ⭐️ | Last known update
+|--------:|:----------------|:---------------|:---|:------------------
+| [Lamdu](http://www.lamdu.org) 👶λ                          | New, Functional | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
+| [MPS](https://www.jetbrains.com/mps/) $🔨                   | General purpose | Java | 1302 | [2022](https://github.com/JetBrains/MPS)
+| [Dark](https://darklang.com) $👶λ                          | New, Functional | ? | 1031 | [2022](https://github.com/darklang/dark)
+| [Hazel](http://hazel.org) 🎓👶λ                             | New, Functional | OCaml | 466 | [2022](https://github.com/hazelgrove/hazel)
+| [Sapling](https://github.com/kneasle/sapling)             | General purpose | Rust | 354 | 2022
+| [Fructure](https://fructure-editor.tumblr.com)｟           | Scheme like     | Racket | 334 | [2020](https://github.com/disconcision/fructure)
+| [Cirru](http://cirru.org) ｟                               | Clojure         | Clojure | 194 | [2022](https://github.com/Cirru/calcit-editor)
+| [ProjecturEd](https://github.com/projectured/projectured) 👨‍👩‍👧‍👦 | General purpose | Common Lisp | 125 | 2021
+| [Envision](http://dimitar-asenov.github.io/Envision/) 🎓 | Java/C++ like   | C++ | 84 | [2022](https://github.com/dimitar-asenov/Envision)
+| [Tofu](https://github.com/Gregoor/tofu) ☕ | TypeScript      | TypeScript | 83 | 2022
+| [Subtext](http://www.subtext-lang.org) 👶 | New             | ? | 82 | [2022](https://github.com/JonathanMEdwards/subtext10)
+| [Foundry](https://github.com/int-index/foundry) λ | Morte           | Haskell | 27 | 2022
+| [Lisperanto](https://github.com/uprun/lisperanto) ｟ | New             | JavaScript | 24 | 2022
+| [Forest](https://github.com/tehwalris/forest) ☕ | TypeScript      | TypeScript | 18 | 2022
+| [Frugel](https://github.com/cdfa/frugel) 🎓👶λ | New, Functional | Haskell | 6 | 2022
+| [Expression of Change](http://expressionsofchange.org) | Lisp like       | Python | 5 | [2019](https://github.com/expressionsofchange/nerf1)
+| [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) 🎓λ | Agda | Haskell | - | 2020
+| [OCell](http://kevinmahoney.co.uk/ocell/) 👶 | New             | ? | - | 2020
+
+### Legend
+
+* Project structure
+  * $ - Commercial
+  * 🎓 - Academic
+* Target languages
+  * 👶 - New language
+  * λ - Pure functional
+  * ｟ - Lisp-based
+  * ☕ - Javascript or Typescript
+* Status
+  * 🔨 - Is in some production use
+* Target audience
+  * 👨‍👩‍👧‍👦 - For everyone (not intended towards programmers)
 
 * "Functional" language refers to a statically typed purely functional language.
 * Some of these store the code as text files, so they are structural but not projectional
