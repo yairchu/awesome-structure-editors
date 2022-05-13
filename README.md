@@ -91,6 +91,7 @@ where the code is structured in a manner similar to "lego blocks" supporting "dr
 | [Enso](http://www.enso.org)                   | $ 👶 | Haskell
 | [Noflo](https://noflojs.org/)                 | ☕ | CoffeeScript
 | [Viskell](https://github.com/viskell/viskell) | λ | Java
+| [Vlojure](https://vlojure.io)                 | | [Clojure](https://github.com/Ella-Hoeppner/Vlojure)
 
 This list does not include domain-oriented systems like:
 [PureData](https://puredata.info),
@@ -102,8 +103,8 @@ This list does not include domain-oriented systems like:
 
 | System                                                              | Flags | Written in
 |--------------------------------------------------------------------:|:-----:|:--------------
-| [Flowsheets](http://tinyletter.com/Flowsheets/)                     | ? | ?
-| [Mesh](https://github.com/chrispsn/mesh)                            | - | JavaScript
+| [Flowsheets](http://tinyletter.com/Flowsheets/)                     | | ?
+| [Mesh](https://github.com/chrispsn/mesh)                            | | JavaScript
 | [Object Spreadsheets](https://sdg.csail.mit.edu/projects/objsheets) | 🎓 | TypeScript
 
 ## Other notable projects
