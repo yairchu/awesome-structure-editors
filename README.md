@@ -33,7 +33,7 @@ Projects are also summarized with unicode or emoji "flags" (their meanings expla
 | [Unison](https://unisonweb.org) | $ 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor but pivoted to a cloud programming language | Haskell | 4371 | [2022](https://github.com/unisonweb/unison)
 | [Lamdu](http://www.lamdu.org) | ⌨️ 文 👶 λ  | Language with live programming and novel UX for type errors | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
 | [MPS](https://www.jetbrains.com/mps/) | $ ⌨️ 🔨 | Language workbench for projectional languages | Java | 1302 | [2022](https://github.com/JetBrains/MPS)
-| [Dark](https://darklang.com) | $ ⌨️ 🌐 👶 λ | Platform and language as a service for app backends and web | ? | 1031 | [2022](https://github.com/darklang/dark)
+| [Dark](https://darklang.com) | $ ⌨️ 🌐 👶 λ | Platform and language as a service for app backends and web | F#, ReScript | 1031 | [2022](https://github.com/darklang/dark)
 | [Hazel](http://hazel.org) | 🎓 ⌨️ 🌐 👶 λ | Language with live programming and types holes | Reason | 466 | [2022](https://github.com/hazelgrove/hazel)
 | [Sapling](https://github.com/kneasle/sapling) | | ? | Rust | 354 | 2022
 | [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | 335 | [2020](https://github.com/disconcision/fructure)
