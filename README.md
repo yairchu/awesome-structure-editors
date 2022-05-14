@@ -6,9 +6,11 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 
 ## Foreword
 
-Projectional editing of code is an idea that some people believe holds a lot of promise, as demonstrated by this list. However it has not yet proven effective, or at least hasn't broken into the mainstream.
+Projectional editing is how almost all document editing applications work nowadays, except for editing source code and text documents, where it is still common to edit plain text files that are parsed to render/compile the result.
 
-This appears to be either a difficult problem, or an impossible one, as evident from the wealth of ongoing and concluded projects listed below. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
+This document is a list of projects trying to bring the projectional/structural approach to source code editing.
+
+As evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either a difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
