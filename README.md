@@ -4,20 +4,14 @@ A list of structural/projectional code editor projects.
 
 Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-structure-editors/issues)
 
-## Foreword
-
-Projectional editing is how almost all document editing applications work nowadays, except for editing source code and text documents, where it is still common to edit plain text files that are parsed to render/compile the result.
-
-This document is a list of projects trying to bring the projectional/structural approach to source code editing.
-
-As evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
+## Contents
 
+- [Foreword](#foreword)
 - [Active structural code editor projects](#active-structural-code-editor-projects)
   - [Unreleased Projects](#unreleased-projects)
+  - [Concluded or inactive projects](#concluded-or-inactive-projects)
   - [Blocks Programming Editors](#blocks-programming-editors)
 - [Visual code editor projects](#visual-code-editor-projects)
 - [Spreadsheet-based projects](#spreadsheet-based-projects)
@@ -25,6 +19,14 @@ As evident from the wealth of ongoing and concluded attempts listed below, this 
 - [Related lists](#related-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Foreword
+
+Projectional editing is how almost all document editing applications work nowadays, except for editing source code and text documents, where it is still common to edit plain text files that are parsed to render/compile the result.
+
+This document is a list of projects trying to bring the projectional/structural approach to source code editing.
+
+As evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
 
 ## Active structural code editor projects
 
@@ -55,27 +57,27 @@ Projects are also summarized with unicode or emoji "flags" (their meanings expla
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
 
 Legend:
-* Project structure: $ Commercial, 🎓 Academic
-* Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ Javascript/Typescript
-* Status:  🔨 Is in some production use
-* Target audience: 👨‍👩‍👧‍👦 For everyone (not intended towards programmers)
-* Other properties: ⌨️ Text editing like UX, 🌐 Works in browser, 文 Localization support
+- Project structure: $ Commercial, 🎓 Academic
+- Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
+- Status:  🔨 Is in some production use
+- Target audience: 👨‍👩‍👧‍👦 For everyone (not intended towards programmers)
+- Other properties: ⌨️ Text editing like UX, 🌐 Works in browser, 文 Localization support
 
 ### Unreleased Projects
 
-* [Roc](https://www.roc-lang.org) - A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864)
-* [SplootCode](https://splootcode.io) - A structural editor for Python, aimed towards beginners
-* [Dion Systems](https://dion.systems)
-* [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) - An educational editor for a structured English-like language. No update since 2017 afaik
+- [Roc](https://www.roc-lang.org) - A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864).
+- [SplootCode](https://splootcode.io) - A structural editor for Python, aimed towards beginners.
+- [Dion Systems](https://dion.systems)
+- [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) - An educational editor for a structured English-like language. No update since 2017 afaik.
 
 ### Concluded or inactive projects
 
-* [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) (1990s - 2017) started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquired by Microsoft at 2017, with the original projects being cancelled (afaik).
-* [Eve](https://futureofcoding.org/essays/eve/) (2014 - 2018) was a startup that made a series of experimental programming systems and was shut down in 2018.
-* [Prune](https://twitter.com/KentBeck/status/634802168508235777) (2015) was an internal research project in Facebook. Concluded in it being promising but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do ... enabling ... programmers to do a 50% better job ... of a task requiring 10% of their time just doesn't make economic sense"
-* [Isomorf](https://isomorf.io/#!/) is a startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language. No updates since 2017?
-* [Omni](https://github.com/daniel-kun/omni) was declared as on-hold since 2017
-* [Zinal](https://gitlab.com/nickcollins/zinal) last updated in 2017
+- [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) - 1990s to 2017. Started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquired by Microsoft at 2017, with the original projects being cancelled (afaik).
+- [Eve](https://futureofcoding.org/essays/eve/) - 2014 to 2018. A startup that made a series of experimental programming systems and was shut down in 2018.
+- [Prune](https://twitter.com/KentBeck/status/634802168508235777) - 2015. An internal research project in Facebook. Concluded in it being promising but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do. Enabling programmers to do a 50% better job of a task requiring 10% of their time just doesn't make economic sense" (redacted quote).
+- [Isomorf](https://isomorf.io/#!/) - A startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language. No updates since 2017?
+- [Omni](https://github.com/daniel-kun/omni) - Declared as on-hold since 2017.
+- [Zinal](https://gitlab.com/nickcollins/zinal) - Last updated in 2017.
 
 ### Blocks Programming Editors
 
@@ -104,7 +106,7 @@ This list does not include domain-oriented systems like:
 [PureData](https://puredata.info),
 [MAX](https://cycling74.com/products/max/),
 [LabView](http://www.ni.com/en-il/shop/labview.html),
-[Simulink](https://www.mathworks.com/products/simulink.html)..
+[Simulink](https://www.mathworks.com/products/simulink.html).
 
 ## Spreadsheet-based projects
 
@@ -127,6 +129,6 @@ Not sure in which category these projects fit in:
 
 ## Related lists
 
-* [The whole code catalog](https://futureofcoding.org/catalog/) by Steve Krouse (sponsored by Dark). An in-depth review of 23 structural and low-code projects from 2019
-* [Gallery of programming UIs](http://alarmingdevelopment.org/?p=1068) by Jonathan Edwards
-* [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/) by Eric Hosick
+- [The whole code catalog](https://futureofcoding.org/catalog/) - An in-depth review of 23 structural and low-code projects by Steve Krouse from 2019. Sponsored by Dark.
+- [Gallery of programming UIs](http://alarmingdevelopment.org/?p=1068) - By Jonathan Edwards.
+- [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/) - By Eric Hosick.
