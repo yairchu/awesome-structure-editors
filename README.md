@@ -48,7 +48,7 @@ Projects are also summarized with unicode or emoji "flags" (their meanings expla
 | [Subtext](http://www.subtext-lang.org) | 👶 | A serie of inspiring presentations and projects exploring ideas in projectional editing | TypeScript | 82 | [2022](https://github.com/JonathanMEdwards/subtext10)
 | [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | 81 | [2022](https://github.com/liamoc/holbert)
 | [Foundry](https://github.com/int-index/foundry) | λ | A projectional editor for the Morte language | Haskell | 27 | 2022
-| [Lisperanto](https://github.com/uprun/lisperanto) | ｟🌐 | IDE for Lisp-like language | JavaScript | 24 | 2022
+| [Lisperanto](https://github.com/uprun/lisperanto) | ｟ 🌐 | IDE for Lisp-like language | JavaScript | 24 | 2022
 | [Forest](https://github.com/tehwalris/forest) | ☕ | TypeScript | TypeScript | 18 | 2022
 | [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 6 | 2022
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
