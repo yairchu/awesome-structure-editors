@@ -10,7 +10,7 @@ Projectional editing is how almost all document editing applications work nowada
 
 This document is a list of projects trying to bring the projectional/structural approach to source code editing.
 
-As evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either a difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
+As evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
