@@ -69,6 +69,7 @@ Legend:
 
 * [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) (1990s - 2017) started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquihired by Microsoft at 2017, with the original projects being canceled (afaik).
 * [Eve](https://futureofcoding.org/essays/eve/) (2014 - 2018) was a startup that made a serie of experimental programming systems and shut down in 2018.
+* [Prune](https://twitter.com/KentBeck/status/634802168508235777) (2015) was an internal research project in Facebook. Concluded in it being promising but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do ... enabling ... programmers to do a 50% better job ... of a task requiring 10% of their time just doesn't make economic sense"
 * [Isomorf](https://isomorf.io/#!/) is a startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language. No updates since 2017?
 * [Omni](https://github.com/daniel-kun/omni) was declared as on-hold since 2017
 * [Zinal](https://gitlab.com/nickcollins/zinal) last updated in 2017
