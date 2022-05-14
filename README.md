@@ -30,7 +30,7 @@ As evident from the wealth of ongoing and concluded attempts listed below, this 
 
 ## Active structural code editor projects
 
-This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2019.
+This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2020.
 
 Projects are also summarized with unicode or emoji "flags" (their meanings explained in legend below)
 
