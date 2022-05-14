@@ -38,7 +38,7 @@ Projects are also summarized with unicode or emoji "flags" (their meanings expla
 | [Lamdu](http://www.lamdu.org) | ⌨️ 文 👶 λ  | Language with live programming and novel UX for type errors | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
 | [MPS](https://www.jetbrains.com/mps/) | $ ⌨️ 🔨 | Language workbench for projectional languages | Java | 1302 | [2022](https://github.com/JetBrains/MPS)
 | [Dark](https://darklang.com) | $ ⌨️ 🌐 👶 λ | Platform and language as a service for app backends and web | F#, ReScript | 1031 | [2022](https://github.com/darklang/dark)
-| [Hazel](http://hazel.org) | 🎓 ⌨️ 🌐 👶 λ | Language with live programming and types holes | Reason | 466 | [2022](https://github.com/hazelgrove/hazel)
+| [Hazel](http://hazel.org) | 🎓 ⌨️ 🌐 👶 λ | Language with live programming and typed holes | Reason | 466 | [2022](https://github.com/hazelgrove/hazel)
 | [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 354 | 2022
 | [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | 335 | [2020](https://github.com/disconcision/fructure)
 | [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | 194 | [2022](https://github.com/Cirru/calcit-editor)
