@@ -32,11 +32,16 @@ As evident from the wealth of ongoing and concluded attempts listed below, this 
 
 This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2020.
 
-Projects are also summarized with unicode or emoji "flags" (their meanings explained in legend below)
+Project properties are summarized using unicode/emoji "flags":
+- Project structure: $ Commercial, 🎓 Academic
+- Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
+- Status:  🔨 Is in some production use
+- Target audience: 👨‍👩‍👧‍👦 For everyone (not intended towards programmers)
+- Other properties: ⌨️ Text editing like UX, 🌐 Works in browser, 文 Localization support
 
 | Project | Flags | Description | Written in | ⭐️ | Updated
 |--------:|:-----:|:------------|:---------------|:---|:------------------
-| [Unison](https://unisonweb.org) | $ 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor but pivoted to a cloud programming language | Haskell | 4371 | [2022](https://github.com/unisonweb/unison)
+| [Unison](https://unisonweb.org) | $ 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | 4371 | [2022](https://github.com/unisonweb/unison)
 | [Lamdu](http://www.lamdu.org) | ⌨️ 文 👶 λ  | Language with live programming and novel UX for type errors | Haskell | 1750 | [2022](https://github.com/lamdu/lamdu)
 | [MPS](https://www.jetbrains.com/mps/) | $ ⌨️ 🔨 | Language workbench for projectional languages | Java | 1302 | [2022](https://github.com/JetBrains/MPS)
 | [Dark](https://darklang.com) | $ ⌨️ 🌐 👶 λ | Platform and language as a service for app backends and web | F#, ReScript | 1031 | [2022](https://github.com/darklang/dark)
@@ -55,13 +60,6 @@ Projects are also summarized with unicode or emoji "flags" (their meanings expla
 | [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 6 | 2022
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
-
-Legend:
-- Project structure: $ Commercial, 🎓 Academic
-- Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
-- Status:  🔨 Is in some production use
-- Target audience: 👨‍👩‍👧‍👦 For everyone (not intended towards programmers)
-- Other properties: ⌨️ Text editing like UX, 🌐 Works in browser, 文 Localization support
 
 ### Unreleased Projects
 
