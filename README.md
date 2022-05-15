@@ -35,9 +35,7 @@ This list includes projects which are actively developed or were maintained rece
 Project properties are summarized using unicode/emoji "flags":
 - Project structure: $ Commercial, 🎓 Academic
 - Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
-- Status:  🔨 Is in some production use
-- Target audience: 👨‍👩‍👧‍👦 For everyone (not intended towards programmers)
-- Other properties: ⌨️ Text editing like UX, 🌐 Works in browser, 文 Localization support
+- Other: 🔨 Is in some production use, ⌨️ Text editing like UX, 🌐 Works in browser, 👨‍👩‍👧‍👦 Not intended for programmers, 文 Localization support
 
 | Project | Flags | Description | Written in | ⭐️ | Updated
 |--------:|:-----:|:------------|:---------------|:---|:------------------
