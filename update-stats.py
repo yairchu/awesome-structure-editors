@@ -27,21 +27,17 @@ cur_year = datetime.datetime.today().year
 
 def new_line(line):
     repo = None
-    yearlink = None
 
     parts = line.split("|")
     name = parts[1].strip()
     prev_stars = parts[-2].strip()
-    prev_year = parts[-1].strip()
-    if name.endswith(")"):
+    if prev_stars.endswith(")"):
+        _, repo = get_github_repo(prev_stars)
+    else:
+        assert name.endswith(")")
         _, repo = get_github_repo(name)
-    if repo is None and prev_year.endswith(")"):
-        prev_year, repo = get_github_repo(prev_year)
-        yearlink = github_repo_prefix + repo
     if repo is None:
         return
-
-    assert int(prev_year) <= cur_year
 
     update_key = "pushedAt"
     stars_key = "stargazerCount"
@@ -49,19 +45,18 @@ def new_line(line):
         ["gh", "repo", "view", repo, "--json", f"{update_key},{stars_key}"])
     result = json.loads(result_raw.decode("UTF-8"))
     stars = result[stars_key]
-    stars_equiv = prev_stars if stars == 0 and prev_stars != "-" else stars
+    if prev_stars.endswith(")"):
+        stars = f"[{stars}](https://github.com/{repo})"
     date = result[update_key]
     year = int(date.split("-", 1)[0])
-    if yearlink is not None:
-        year = f"[{year}]({yearlink})"
     head = line.rsplit("| ", 2)[0]
-    return f"{head}| {stars_equiv} | {year}\n"
+    return f"{head}| {stars} | {year}\n"
 
 
 def line_order(line):
     head, stars, prev_year = [x.strip() for x in line.rsplit("|", 2)]
-    if prev_year.endswith(")"):
-        prev_year, _ = get_github_repo(prev_year)
+    if stars.endswith(")"):
+        stars, _ = get_github_repo(stars)
     return -int(stars) if stars.isdigit() else 0, -int(prev_year), head
 
 
@@ -73,7 +68,7 @@ def new_lines():
     lines = iter(open("README.md"))
     for line in lines:
         yield line
-        if line.endswith(" | Last known update\n"):
+        if line.endswith("| ⭐️ | Updated\n"):
             break
     else:
         print("Did not find table")
