@@ -22,14 +22,31 @@ def get_github_repo(markdown_hyperlink):
     return content, link[len(github_repo_prefix):]
 
 
-cur_year = datetime.datetime.today().year
+def is_flag(txt):
+    return not txt.isascii() or txt in "$"
 
 
-def new_line(line):
+def text_flags(line):
+    prev = "-"
+    res = []
+    for x in line:
+        if is_flag(x):
+            if not is_flag(prev):
+                res.append("")
+            res[-1] += x
+        prev = x
+    return res
+
+
+def new_line(line, all_flags):
     repo = None
 
     parts = line.split("|")
+    assert not parts[0].strip()
     name = parts[1].strip()
+    prev_flags = parts[2].strip()
+    flags = text_flags(prev_flags)
+    desc = parts[3].strip()
     prev_stars = parts[-2].strip()
     if prev_stars.endswith(")"):
         _, repo = get_github_repo(prev_stars)
@@ -49,8 +66,9 @@ def new_line(line):
         stars = f"[{stars}](https://github.com/{repo})"
     date = result[update_key]
     year = int(date.split("-", 1)[0])
-    head = line.rsplit("| ", 2)[0]
-    return f"{head}| {stars} | {year}\n"
+    flags = " ".join(sorted(flags, key=lambda x: all_flags.index(x)))
+    assert len(flags) == len(prev_flags)
+    return f"| {name} | {flags} | {desc} | {stars} | {year}\n"
 
 
 def line_order(line):
@@ -60,24 +78,27 @@ def line_order(line):
     return -int(stars) if stars.isdigit() else 0, -int(prev_year), head
 
 
-def process_table(prev):
-    return sorted([new_line(line) or line for line in prev], key=line_order)
+def process_table(prev, all_flags):
+    return sorted([new_line(line, all_flags) or line for line in prev], key=line_order)
 
 
 def new_lines():
     lines = iter(open("README.md"))
+    all_flags = []
     for line in lines:
         yield line
         if line.endswith("| ⭐️ | Updated\n"):
             break
+        all_flags.extend(text_flags(line))
     else:
         print("Did not find table")
         sys.exit(1)
+    assert len(all_flags) == len(set(all_flags))
     yield next(lines)
     table = []
     for line in lines:
         if not line.strip():
-            yield from process_table(table)
+            yield from process_table(table, all_flags)
             yield line
             break
         table.append(line)
