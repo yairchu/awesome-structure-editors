@@ -13,7 +13,6 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
   - [Unreleased Projects](#unreleased-projects)
   - [Concluded or inactive projects](#concluded-or-inactive-projects)
   - [Blocks Programming Editors](#blocks-programming-editors)
-- [Visual code editor projects](#visual-code-editor-projects)
 - [Spreadsheet-based projects](#spreadsheet-based-projects)
 - [Other notable projects](#other-notable-projects)
 - [Related lists](#related-lists)
@@ -50,7 +49,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | [344](https://github.com/disconcision/fructure) | 2020
 | [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | [195](https://github.com/Cirru/calcit-editor) | 2022
 | [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 125 | 2021
-| [Vlojure](https://vlojure.io) | ⤴️ ｟ 🌐 | A novel visual UX for ClojureScript | Clojure | [112](https://github.com/Ella-Hoeppner/Vlojure) | 2022
+| [Vlojure](https://vlojure.io) | ⤴️ 🌐 ｟ | A novel visual UX for ClojureScript | Clojure | [112](https://github.com/Ella-Hoeppner/Vlojure) | 2022
 | [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | [84](https://github.com/dimitar-asenov/Envision) | 2022
 | [Tofu](https://github.com/Gregoor/tofu) | ☕ | VSCode extension for structured editing of JavaScript and TypeScript | TypeScript | 83 | 2022
 | [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | [82](https://github.com/liamoc/holbert) | 2022
