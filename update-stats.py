@@ -47,7 +47,8 @@ def new_line(line, all_flags):
     prev_flags = parts[2].strip()
     flags = text_flags(prev_flags)
     desc = parts[3].strip()
-    prev_stars = parts[-2].strip()
+    impl_lang = parts[4].strip()
+    prev_stars = parts[5].strip()
     if prev_stars.endswith(")"):
         _, repo = get_github_repo(prev_stars)
     else:
@@ -68,7 +69,7 @@ def new_line(line, all_flags):
     year = int(date.split("-", 1)[0])
     flags = " ".join(sorted(flags, key=lambda x: all_flags.index(x)))
     assert len(flags) == len(prev_flags)
-    return f"| {name} | {flags} | {desc} | {stars} | {year}\n"
+    return f"| {name} | {flags} | {desc} | {impl_lang} | {stars} | {year}\n"
 
 
 def line_order(line):
