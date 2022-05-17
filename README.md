@@ -86,7 +86,6 @@ where the code is structured in a manner similar to "lego blocks" supporting "dr
 | System                                     | Flags | Written in
 |-------------------------------------------:|:-----:|:-----------
 | [Alice](http://www.alice.org)              | 🎓 | Java
-| [GP](https://harc.ycr.org/project/gp/)     | 🎓 | ?
 | [Hopscotch](https://gethopscotch.com)      | $ | ?
 | [Microsoft MakeCode](https://makecode.com) | $ 👶 | ?
 | [Scratch](https://scratch.mit.edu)         | 🎓 文 👶 | JavaScript
