@@ -32,18 +32,18 @@ As evident from the wealth of ongoing and concluded attempts listed below, this 
 This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2020.
 
 Project properties are summarized using unicode/emoji "flags":
-- Project structure: $ Commercial, 🎓 Academic
+- Project structure: 💵 Commercial, 🎓 Academic
 - UX: 📖 Uses text files, ⤴️ Visual programming, ⌨️ Text editing like UX
 - Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
 - Other: 🔨 Is in some production use, 🌐 Works in browser, 👨‍👩‍👧‍👦 Not intended for programmers, 文 Localization support
 
 | Project | Flags | Description | Written in | ⭐️ | Updated
 |--------:|:-----:|:------------|:----------:|:--:|:-------:
-| [Enso](https://enso.org) | $ 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [5506](https://github.com/enso-org/enso) | 2022
-| [Unison](https://unisonweb.org) | $ 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [4381](https://github.com/unisonweb/unison) | 2022
+| [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [5506](https://github.com/enso-org/enso) | 2022
+| [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [4381](https://github.com/unisonweb/unison) | 2022
 | [Lamdu](http://www.lamdu.org) | ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1753](https://github.com/lamdu/lamdu) | 2022
-| [MPS](https://www.jetbrains.com/mps/) | $ ⌨️ 🔨 | Language workbench for projectional languages | Java | [1305](https://github.com/JetBrains/MPS) | 2022
-| [Dark](https://darklang.com) | $ ⌨️ 👶 λ 🌐 | Platform and language as a service for app backends and web | F#, ReScript | [1036](https://github.com/darklang/dark) | 2022
+| [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🔨 | Language workbench for projectional languages | Java | [1305](https://github.com/JetBrains/MPS) | 2022
+| [Dark](https://darklang.com) | 💵 ⌨️ 👶 λ 🌐 | Platform and language as a service for app backends and web | F#, ReScript | [1036](https://github.com/darklang/dark) | 2022
 | [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [466](https://github.com/hazelgrove/hazel) | 2022
 | [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 354 | 2022
 | [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | [344](https://github.com/disconcision/fructure) | 2020
@@ -86,8 +86,8 @@ where the code is structured in a manner similar to "lego blocks" supporting "dr
 | System                                     | Flags | Written in
 |-------------------------------------------:|:-----:|:-----------
 | [Alice](http://www.alice.org)              | 🎓 | Java
-| [Hopscotch](https://gethopscotch.com)      | $ | ?
-| [Microsoft MakeCode](https://makecode.com) | $ 👶 | ?
+| [Hopscotch](https://gethopscotch.com)      | 💵 | ?
+| [Microsoft MakeCode](https://makecode.com) | 💵 👶 | ?
 | [Scratch](https://scratch.mit.edu)         | 🎓 文 👶 | JavaScript
 | [Snap](https://snap.berkeley.edu)          | 🎓 文 | ?
 
