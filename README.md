@@ -37,8 +37,8 @@ Project properties are summarized using unicode/emoji "flags":
 - Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
 - Other: 🔨 Is in some production use, 🌐 Works in browser, 👨‍👩‍👧‍👦 Not intended for programmers, 文 Localization support
 
-| Project | Flags | Description | Written in | ⭐️ | Updated
-|--------:|:-----:|:------------|:----------:|:--:|:-------:
+| Project | Properties | Description | Written in | ⭐️ | Updated
+|--------:|:----------:|:------------|:----------:|:--:|:-------:
 | [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [5506](https://github.com/enso-org/enso) | 2022
 | [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [4381](https://github.com/unisonweb/unison) | 2022
 | [Lamdu](http://www.lamdu.org) | ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1753](https://github.com/lamdu/lamdu) | 2022
@@ -83,8 +83,8 @@ Project properties are summarized using unicode/emoji "flags":
 Blocks Programming languages/editors are a specific kind of structural programming editors,
 where the code is structured in a manner similar to "lego blocks" supporting "drag and drop" editing.
 
-| System                                     | Flags | Written in
-|-------------------------------------------:|:-----:|:-----------
+| System                                     | Properties | Written in
+|-------------------------------------------:|:----------:|:-----------
 | [Alice](http://www.alice.org)              | 🎓 | Java
 | [Hopscotch](https://gethopscotch.com)      | 💵 | ?
 | [Microsoft MakeCode](https://makecode.com) | 💵 👶 | ?
@@ -93,8 +93,8 @@ where the code is structured in a manner similar to "lego blocks" supporting "dr
 
 ## Spreadsheet-based projects
 
-| System                                                              | Flags | Written in
-|--------------------------------------------------------------------:|:-----:|:--------------
+| System                                                              | Properties | Written in
+|--------------------------------------------------------------------:|:----------:|:--------------
 | [Flowsheets](http://tinyletter.com/Flowsheets/)                     | | ?
 | [Mesh](https://github.com/chrispsn/mesh)                            | | JavaScript
 | [Object Spreadsheets](https://sdg.csail.mit.edu/projects/objsheets) | 🎓 | TypeScript
@@ -103,8 +103,8 @@ where the code is structured in a manner similar to "lego blocks" supporting "dr
 
 Not sure in which category these projects fit in:
 
-| System                                                        | Flags | Description              | Written in
-|--------------------------------------------------------------:|:-----:|:-------------------------|:--------------
+| System                                                        | Properties | Description              | Written in
+|--------------------------------------------------------------:|:----------:|:-------------------------|:--------------
 | [Apparatus](http://aprt.us)                                   | 🎓 | Hybric diagrams editor | CoffeeScript
 | [Cycle.js Dev Tools](https://cycle.js.org)                    | | Dataflow debugging | TypeScript
 | [JSON Editor](https://github.com/json-editor/json-editor.git) | | JSON schema-based editor | JavaScript
