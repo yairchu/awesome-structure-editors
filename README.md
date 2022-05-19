@@ -9,7 +9,7 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 ## Contents
 
 - [Foreword](#foreword)
-- [Active structural code editor projects](#active-structural-code-editor-projects)
+- [Structural code editor projects](#structural-code-editor-projects)
   - [Unreleased Projects](#unreleased-projects)
   - [Concluded or inactive projects](#concluded-or-inactive-projects)
 - [Blocks Programming Editors](#blocks-programming-editors)
@@ -27,7 +27,7 @@ This document is a list of projects trying to bring the projectional/structural 
 
 As evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!
 
-## Active structural code editor projects
+## Structural code editor projects
 
 This list includes projects which are actively developed or were maintained recently. Currently the bar is set arbitrarily at 2020.
 
