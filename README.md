@@ -12,7 +12,7 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 - [Active structural code editor projects](#active-structural-code-editor-projects)
   - [Unreleased Projects](#unreleased-projects)
   - [Concluded or inactive projects](#concluded-or-inactive-projects)
-  - [Blocks Programming Editors](#blocks-programming-editors)
+- [Blocks Programming Editors](#blocks-programming-editors)
 - [Spreadsheet-based projects](#spreadsheet-based-projects)
 - [Other notable projects](#other-notable-projects)
 - [Related lists](#related-lists)
@@ -78,7 +78,7 @@ Project properties are summarized using unicode/emoji "flags":
 - [Viskell](https://github.com/viskell/viskell) - Visual programming meets Haskell. Last updated in 2017.
 - [Zinal](https://gitlab.com/nickcollins/zinal) - Last updated in 2017.
 
-### Blocks Programming Editors
+## Blocks Programming Editors
 
 Blocks Programming languages/editors are a specific kind of structural programming editors,
 where the code is structured in a manner similar to "lego blocks" supporting "drag and drop" editing.
