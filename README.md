@@ -63,24 +63,28 @@ Project properties are summarized using unicode/emoji "flags":
 
 ### Unreleased Projects
 
-- [Roc](https://www.roc-lang.org) - A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864).
-- [SplootCode](https://splootcode.io) - A structural editor for Python, aimed towards beginners.
-- [Inflex](https://inflex.io/) - A commercial, spreadsheet-inspired functional programming language.
-- [Dion Systems](https://dion.systems)
-- [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) - An educational editor for a structured English-like language. No update since 2017 afaik.
+| Project | Properties | Description
+|--------:|:----------:|:------------
+| [Roc](https://www.roc-lang.org) | λ | A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864).
+| [SplootCode](https://splootcode.io) | | A structural editor for Python, aimed towards beginners.
+| [Inflex](https://inflex.io/) | 💵 🌐 👶 λ | A commercial, spreadsheet-inspired functional programming language.
+| [Dion Systems](https://dion.systems) | |
+| [Programming with Plain Words](https://www.patreon.com/posts/screenshot-with-14865073) | ♡ 👶 | An educational editor for a structured English-like language. No update since 2017 afaik.
 
 ### Concluded or inactive projects
 
-- [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) - 1990s to 2017. Started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquired by Microsoft at 2017, with the original projects being cancelled (afaik).
-- [Eve](https://futureofcoding.org/essays/eve/) - 2014 to 2018. A startup that made a series of experimental programming systems and was shut down in 2018.
-- [Prune](https://twitter.com/KentBeck/status/634802168508235777) - 2015. An internal research project in Facebook. Concluded in it being promising but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do. Enabling programmers to do a 50% better job of a task requiring 10% of their time just doesn't make economic sense" (redacted quote).
-- [Novella](https://github.com/chrisdone/novella) - A structural editor infrastructure, author moved on to develop Inflex instead.
-- [Expressions of Change](https://www.expressionsofchange.org) - "Paused until further notice" since 2018.
-- [Isomorf](https://isomorf.io/#!/) - A startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language. No updates since 2017?
-- [Omni](https://github.com/daniel-kun/omni) - Declared as on-hold since 2017.
-- [Viskell](https://github.com/viskell/viskell) - Visual programming meets Haskell. Last updated in 2017.
-- [Zinal](https://gitlab.com/nickcollins/zinal) - Last updated in 2017.
-- [Cedalion](http://cedalion.sourceforge.net) - An Academic project to develop a projectional editor. Last updated in 2013.
+| Project | Time_Period | Properties | Description
+|--------:|:------:|:----------:|:------------
+| [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) | 1990s - 2017 | 💵 | Started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquired by Microsoft at 2017, with the original projects being cancelled (afaik).
+| [Eve](https://futureofcoding.org/essays/eve/) | 2014 - 2018 | 💵 👶 | A startup that made a series of experimental programming systems and was shut down in 2018.
+| [Prune](https://twitter.com/KentBeck/status/634802168508235777) | 2015 | | An internal research project in Facebook. Concluded in it "being promising" but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do. Enabling programmers to do a 50% better job of a task requiring 10% of their time just doesn't make economic sense" (redacted quote).
+| [Novella](https://github.com/chrisdone/novella) | 2019 - 2020 | | A structural editor infrastructure, in 2020 author moved on to develop Inflex instead.
+| [Expressions of Change](https://www.expressionsofchange.org) | 2017 - 2018 | |
+| [Isomorf](https://isomorf.io/#!/) | 2017? | 💵 🌐 👶 λ | A startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language
+| [Omni](https://github.com/daniel-kun/omni) | 2013 - 2017 | 👶 |
+| [Viskell](https://github.com/viskell/viskell) | 2015 - 2017 | λ | Visual programming meets Haskell
+| [Zinal](https://gitlab.com/nickcollins/zinal) | 2015 - 2017 | 👶 |
+| [Cedalion](http://cedalion.sourceforge.net) | ? - 2013 | 🎓 👶 |
 
 ## Blocks Programming Editors
 
