@@ -75,10 +75,12 @@ Project properties are summarized using unicode/emoji "flags":
 - [Eve](https://futureofcoding.org/essays/eve/) - 2014 to 2018. A startup that made a series of experimental programming systems and was shut down in 2018.
 - [Prune](https://twitter.com/KentBeck/status/634802168508235777) - 2015. An internal research project in Facebook. Concluded in it being promising but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do. Enabling programmers to do a 50% better job of a task requiring 10% of their time just doesn't make economic sense" (redacted quote).
 - [Novella](https://github.com/chrisdone/novella) - A structural editor infrastructure, author moved on to develop Inflex instead.
+- [Expression of Change](https://www.expressionsofchange.org) - "Paused until further notice" since 2018.
 - [Isomorf](https://isomorf.io/#!/) - A startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language. No updates since 2017?
 - [Omni](https://github.com/daniel-kun/omni) - Declared as on-hold since 2017.
 - [Viskell](https://github.com/viskell/viskell) - Visual programming meets Haskell. Last updated in 2017.
 - [Zinal](https://gitlab.com/nickcollins/zinal) - Last updated in 2017.
+- [Cedalion](http://cedalion.sourceforge.net) - An Academic project to develop a projectional editor. Last updated in 2013.
 
 ## Blocks Programming Editors
 
