@@ -60,6 +60,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 9 | 2022
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
+| [Freon](https://www.projectit.org) | ⌨️ 🌐 | Web-based Projectional Language Workbench | TypeScript | [44](https://github.com/projectit-org/ProjectIt)
 
 ### Unreleased Projects
 
