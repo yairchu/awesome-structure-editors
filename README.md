@@ -47,7 +47,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [JOY.js](https://ncase.me/joy/) | ♡ 👶 🔨 🌐 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [537](https://github.com/ncase/joy) | 2018
 | [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [478](https://github.com/hazelgrove/hazel) | 2022
 | [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 359 | 2022
-| [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | [355](https://github.com/disconcision/fructure) | 2020
+| [Fructure](https://fructure-editor.tumblr.com) | ｟ | A structured interaction engine using a rewriting DSL to model both language- and editor-level concepts | Racket | [355](https://github.com/disconcision/fructure) | 2020
 | [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | [199](https://github.com/Cirru/calcit-editor) | 2022
 | [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | [140](https://github.com/liamoc/holbert) | 2022
 | [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 125 | 2021
