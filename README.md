@@ -44,7 +44,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Lamdu](http://www.lamdu.org) | ♡ ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1779](https://github.com/lamdu/lamdu) | 2022
 | [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🔨 | Language workbench for projectional languages | Java | [1321](https://github.com/JetBrains/MPS) | 2022
 | [Dark](https://darklang.com) | 💵 ⌨️ 👶 λ 🌐 | Platform and language as a service for app backends and web | F#, ReScript | [1116](https://github.com/darklang/dark) | 2022
-| [JOY.js](https://ncase.me/joy/) | ♡ 👶 🌐 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [537](https://github.com/ncase/joy) | 2018
+| [JOY.js](https://ncase.me/joy/) | ♡ 👶 🔨 🌐 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [537](https://github.com/ncase/joy) | 2018
 | [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [478](https://github.com/hazelgrove/hazel) | 2022
 | [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 359 | 2022
 | [Fructure](https://fructure-editor.tumblr.com) | ｟ | ? | Racket | [355](https://github.com/disconcision/fructure) | 2020
