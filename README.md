@@ -34,22 +34,22 @@ This list includes projects which are actively developed or were maintained rece
 Project properties are summarized using unicode/emoji "flags":
 - Project structure: 💵 Commercial, 🎓 Academic, ♡ Accepts donations
 - UX: 📖 Uses text files, ⤴️ Visual programming, ⌨️ Text editing like UX
-- Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript
+- Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript, 🧰 Language Workbench
 - Other: 🔨 Is in some production use, 🌐 Works in browser, 👨‍👩‍👧‍👦 Not intended for programmers, 文 Localization support
 
 | Project | Properties | Description | Written in | ⭐️ | Updated
 |--------:|:----------:|:------------|:----------:|:--:|:-------:
-| [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [5598](https://github.com/enso-org/enso) | 2022
-| [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [4510](https://github.com/unisonweb/unison) | 2022
+| [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [5599](https://github.com/enso-org/enso) | 2022
+| [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [4512](https://github.com/unisonweb/unison) | 2022
 | [Lamdu](http://www.lamdu.org) | ♡ ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1779](https://github.com/lamdu/lamdu) | 2022
-| [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🔨 | Language workbench for projectional languages | Java | [1321](https://github.com/JetBrains/MPS) | 2022
+| [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🧰 🔨 | Language workbench for projectional languages | Java | [1322](https://github.com/JetBrains/MPS) | 2022
 | [Dark](https://darklang.com) | 💵 ⌨️ 👶 λ 🌐 | Platform and language as a service for app backends and web | F#, ReScript | [1116](https://github.com/darklang/dark) | 2022
-| [JOY.js](https://ncase.me/joy/) | ♡ 👶 🔨 🌐 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [537](https://github.com/ncase/joy) | 2018
+| [JOY.js](https://ncase.me/joy/) | ♡ 👶 🧰 🔨 🌐 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [537](https://github.com/ncase/joy) | 2018
 | [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [478](https://github.com/hazelgrove/hazel) | 2022
 | [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 359 | 2022
-| [Fructure](https://fructure-editor.tumblr.com) | ｟ | A projectional editor workbench for Racket-implemented languages | Racket | [355](https://github.com/disconcision/fructure) | 2020
+| [Fructure](https://fructure-editor.tumblr.com) | ｟ 🧰 | A projectional editor workbench for Racket-implemented languages | Racket | [355](https://github.com/disconcision/fructure) | 2020
 | [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | [199](https://github.com/Cirru/calcit-editor) | 2022
-| [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | [140](https://github.com/liamoc/holbert) | 2022
+| [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | [141](https://github.com/liamoc/holbert) | 2022
 | [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 125 | 2021
 | [Vlojure](https://vlojure.io) | ⤴️ ｟ 🌐 | A novel visual UX for ClojureScript | Clojure | [112](https://github.com/Ella-Hoeppner/Vlojure) | 2022
 | [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | [87](https://github.com/dimitar-asenov/Envision) | 2022
