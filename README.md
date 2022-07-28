@@ -58,7 +58,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Freon](https://www.projectit.org) | ⌨️ 🌐 | Web-based Projectional Language Workbench | TypeScript | [45](https://github.com/projectit-org/ProjectIt) | 2022
 | [Lisperanto](https://github.com/uprun/lisperanto) | ♡ ｟ 🌐 | IDE for Lisp-like language | JavaScript | 31 | 2022
 | [Foundry](https://github.com/int-index/foundry) | λ | A projectional editor for the Morte language | Haskell | 28 | 2022
-| [Forest](https://github.com/tehwalris/forest) | ☕ | A prototype tree editor for TypeScript | TypeScript | 22 | 2022
+| [Forest](https://github.com/tehwalris/forest) | ☕ 🌐 | A prototype tree editor for TypeScript | TypeScript | 22 | 2022
 | [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 11 | 2022
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
@@ -96,9 +96,9 @@ where the code is structured in a manner similar to "lego blocks" supporting "dr
 |-------------------------------------------:|:----------:|:-----------
 | [Alice](http://www.alice.org)              | 🎓 | Java
 | [Hopscotch](https://gethopscotch.com)      | 💵 | ?
-| [Microsoft MakeCode](https://makecode.com) | 💵 👶 | ?
-| [Scratch](https://scratch.mit.edu)         | 🎓 文 👶 | JavaScript
-| [Snap](https://snap.berkeley.edu)          | 🎓 文 | ?
+| [Microsoft MakeCode](https://makecode.com) | 💵 👶 🌐 | ?
+| [Scratch](https://scratch.mit.edu)         | 🎓 文 👶 🌐 | JavaScript
+| [Snap](https://snap.berkeley.edu)          | 🎓 文 🌐 | ?
 
 ## Spreadsheet-based projects
 
@@ -114,9 +114,9 @@ Not sure in which category these projects fit in:
 
 | System                                                        | Properties | Description              | Written in
 |--------------------------------------------------------------:|:----------:|:-------------------------|:--------------
-| [Apparatus](http://aprt.us)                                   | 🎓 | Hybric diagrams editor | CoffeeScript
+| [Apparatus](http://aprt.us)                                   | 🎓 🌐 | Hybric diagrams editor | CoffeeScript
 | [Cycle.js Dev Tools](https://cycle.js.org)                    | ♡ | Dataflow debugging | TypeScript
-| [JSON Editor](https://github.com/json-editor/json-editor.git) | | JSON schema-based editor | JavaScript
+| [JSON Editor](https://github.com/json-editor/json-editor.git) | 🌐 | JSON schema-based editor | JavaScript
 | [Greenfoot/BlueJ](https://www.greenfoot.org/)                 | 🎓 | Structure-text hybrid | Java
 
 ## Related lists
