@@ -71,6 +71,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [SplootCode](https://splootcode.io) | | A structural editor for Python, aimed towards beginners.
 | [Inflex](https://inflex.io/) | 💵 🌐 👶 λ | A commercial, spreadsheet-inspired functional programming language.
 | [Dion Systems](https://dion.systems) | |
+| [Neurion](https://neurion.co) | 💵 👶 λ |
 
 ### Concluded or inactive projects
 
