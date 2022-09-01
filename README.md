@@ -62,6 +62,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 11 | 2022
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
+| [tylr](https://tylr.fun) | 🎓⌨️ λ🌐 | A tiny tile-based editor for well-formedly manipulating sequences of tokens | Reason | [184](https://github.com/hazelgrove/tylr) | 2022
 
 ### Unreleased Projects
 
