@@ -65,6 +65,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Gopcaml-mode](https://gitlab.com/gopiandcode/gopcaml-mode) | 📖 λ 🔨 | Structural editing Emacs plugin for OCaml code | OCaml | [17](https://github.com/gopiandcode/gopcaml-mode) | 2022
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
+| [Eyg](https://eyg.run/) | 👶 λ 🌐 | ? | Gleam | [?](https://github.com/crowdhailer/eyg-lang) | 2023
 
 ### Unreleased Projects
 
@@ -74,7 +75,6 @@ Project properties are summarized using unicode/emoji "flags":
 | [SplootCode](https://splootcode.io) | | A structural editor for Python, aimed towards beginners.
 | [Inflex](https://inflex.io/) | 💵 🌐 👶 λ | A commercial, spreadsheet-inspired functional programming language.
 | [Dion Systems](https://dion.systems) | |
-| [Peter Saxton's structural editor](https://petersaxton.uk/log/) | 👶 λ |
 | [Neurion](https://neurion.co) | 💵 👶 λ |
 
 ### Concluded or inactive projects
