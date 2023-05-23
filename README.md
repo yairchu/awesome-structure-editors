@@ -73,7 +73,6 @@ Project properties are summarized using unicode/emoji "flags":
 | Project | Properties | Description
 |--------:|:----------:|:------------
 | [Roc](https://www.roc-lang.org) | λ | A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864).
-| [Inflex](https://inflex.io/) | 💵 🌐 👶 λ | A commercial, spreadsheet-inspired functional programming language.
 | [Dion Systems](https://dion.systems) | |
 | [Neurion](https://neurion.co) | 💵 👶 λ |
 
@@ -81,6 +80,7 @@ Project properties are summarized using unicode/emoji "flags":
 
 | Project | Time_Period | Properties | Description
 |--------:|:------:|:----------:|:------------
+| [Inflex](https://chrisdone.com/posts/inflex/) | 2020 - 2022 | 💵 🌐 👶 λ | A spreadsheet-inspired functional programming language
 | [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) | 1990s - 2017 | 💵 | Started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquired by Microsoft at 2017, with the original projects being cancelled (afaik).
 | [Eve](https://futureofcoding.org/essays/eve/) | 2014 - 2018 | 💵 👶 | A startup that made a series of experimental programming systems and was shut down in 2018.
 | [Prune](https://twitter.com/KentBeck/status/634802168508235777) | 2015 | | An internal research project in Facebook. Concluded in it "being promising" but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do. Enabling programmers to do a 50% better job of a task requiring 10% of their time just doesn't make economic sense" (redacted quote).
