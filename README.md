@@ -61,7 +61,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Forest](https://github.com/tehwalris/forest) | ☕ 🌐 | A prototype tree editor for TypeScript | TypeScript | 49 | 2023
 | [Lisperanto](https://github.com/uprun/lisperanto) | ♡ ｟ 🌐 | IDE for Lisp-like language | JavaScript | 38 | 2022
 | [Foundry](https://github.com/int-index/foundry) | λ | A projectional editor for the Morte language | Haskell | 29 | 2022
-| [Eyg](https://eyg.run) | 👶 λ 🌐 | ? | Gleam | [20](https://github.com/crowdhailer/eyg-lang) | 2023
+| [Eyg](https://eyg.run) | 👶 λ 🌐 | Minimal language to enable exploration of alternative editing methods | Gleam | [20](https://github.com/crowdhailer/eyg-lang) | 2023
 | [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 17 | 2022
 | [Gopcaml-mode](https://gitlab.com/gopiandcode/gopcaml-mode) | 📖 λ 🔨 | Structural editing Emacs plugin for OCaml code | OCaml | [17](https://github.com/gopiandcode/gopcaml-mode) | 2022
 | [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | - | 2023
