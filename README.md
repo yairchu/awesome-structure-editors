@@ -15,7 +15,9 @@ Any comments, suggestions? [Let us know!](https://github.com/yairchu/awesome-str
 - [Blocks Programming Editors](#blocks-programming-editors)
 - [Spreadsheet-based projects](#spreadsheet-based-projects)
 - [Other notable projects](#other-notable-projects)
-- [Related lists](#related-lists)
+- [Resources](#resources)
+  - [Related lists](#related-lists)
+  - [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -124,8 +126,17 @@ Not sure in which category these projects fit in:
 | [JSON Editor](https://github.com/json-editor/json-editor.git) | 🌐 | JSON schema-based editor | JavaScript
 | [Greenfoot/BlueJ](https://www.greenfoot.org/)                 | 🎓 | Structure-text hybrid | Java
 
-## Related lists
+## Resources
+
+### Related lists
 
 - [The whole code catalog](https://futureofcoding.org/catalog/) - An in-depth review of 23 structural and low-code projects by Steve Krouse from 2019. Sponsored by Dark.
 - [Gallery of programming UIs](http://alarmingdevelopment.org/?p=1068) - By Jonathan Edwards.
 - [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/) - By Eric Hosick.
+
+### Community
+
+- [Reddit: /r/nosyntax](https://www.reddit.com/r/nosyntax/) - A subreddit about projectional/structural editing.
+- [Future of Coding](https://futureofcoding.org/community) - A Slack-based community with a wider focus.
+- Conferences:
+  - [LIVE Programming workshop](https://liveprog.org) - An annual workshop at the SPLASH conference mainly focused on live programming.
