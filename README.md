@@ -92,6 +92,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Omni](https://github.com/daniel-kun/omni) | 2013 - 2017 | 👶 |
 | [Viskell](https://github.com/viskell/viskell) | 2015 - 2017 | λ | Visual programming meets Haskell
 | [Zinal](https://gitlab.com/nickcollins/zinal) | 2015 - 2017 | 👶 |
+| [Golem](http://xixixao.github.io/Golem/) | 2014 - 2016 | 🎓 📖 ⌨️ 👶 λ ｟ 🌐 | Online tree editor and debugger for [Shem](https://github.com/xixixao/Shem), a functional LISP-like language which compiles to JavaScript
 | [Cedalion](http://cedalion.sourceforge.net) | ? - 2013 | 🎓 👶 |
 
 ## Blocks Programming Editors
