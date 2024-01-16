@@ -69,6 +69,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | - | 2023
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
+| [Javardise](https://github.com/andre-santos-pt/javardise) | 🎓📖 | Editor for a subset of Java, backed by [JavaParser](https://github.com/javaparser/javaparser) (model) | Kotlin | - | 2024 
 
 ### Unreleased Projects
 
