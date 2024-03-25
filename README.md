@@ -60,7 +60,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | [95](https://github.com/dimitar-asenov/Envision) | 2022
 | [Subtext](http://www.subtext-lang.org) | 👶 | A series of inspiring presentations and projects exploring ideas in projectional editing | TypeScript | [95](https://github.com/JonathanMEdwards/subtext10) | 2022
 | [Eyg](https://eyg.run) | 👶 λ 🌐 | Minimal language to enable exploration of alternative editing methods | Gleam | [76](https://github.com/crowdhailer/eyg-lang) | 2024
-| [Freon](https://www.projectit.org) | ⌨️ 🧰 🌐 | Web-based Projectional Language Workbench | TypeScript | [62](https://github.com/projectit-org/ProjectIt) | 2023
+| [Freon](https://www.freon4dsl.dev/) | ⌨️ 🧰 🌐 | Web-based Projectional Language Workbench | TypeScript | [62](https://github.com/projectit-org/ProjectIt) | 2023
 | [Forest](https://github.com/tehwalris/forest) | ☕ 🌐 | A prototype tree editor for TypeScript | TypeScript | 55 | 2023
 | [Lisperanto](https://github.com/uprun/lisperanto) | ♡ ｟ 🌐 | IDE for Lisp-like language | JavaScript | 39 | 2022
 | [Foundry](https://github.com/int-index/foundry) | λ | A projectional editor for the Morte language | Haskell | 28 | 2024
