@@ -70,6 +70,8 @@ Project properties are summarized using unicode/emoji "flags":
 | [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | - | 2023
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
+| [Algot](https://algot.org/about/) | 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? |  ? | 2019   
+| [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 | An Educational, flowcharts based graphical language | ? | ? | 2014  
 
 ### Unreleased Projects
 
@@ -95,6 +97,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Zinal](https://gitlab.com/nickcollins/zinal) | 2015 - 2017 | 👶 |
 | [Golem](http://xixixao.github.io/Golem/) | 2014 - 2016 | 🎓 📖 ⌨️ 👶 λ ｟ 🌐 | Online tree editor and debugger for [Shem](https://github.com/xixixao/Shem), a functional LISP-like language which compiles to JavaScript
 | [Cedalion](http://cedalion.sourceforge.net) | ? - 2013 | 🎓 👶 |
+| [TFlow](https://www.ubitron.com/legacy/tflow) | 1994 - 1995 | 💵 👶 ⤴️ 🌐 👨‍👩‍👧‍👦 文 | Educational Graphical flow-chart based programming language with interpreter and Arduino-like compiler 
 
 ## Blocks Programming Editors
 
