@@ -70,8 +70,8 @@ Project properties are summarized using unicode/emoji "flags":
 | [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | - | 2023
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
-| [Algot](https://algot.org/about/) | 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? |  ? | 2019   
-| [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 | An Educational, flowcharts based graphical language | ? | ? | 2014  
+| [Algot](https://algot.org/about/) | 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? | ? | 2024
+| [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 | An Educational, flowcharts based graphical language | ? | ? | 2024  
 
 ### Unreleased Projects
 
