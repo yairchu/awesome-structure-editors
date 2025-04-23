@@ -53,6 +53,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 745 | 2025
 | [JOY.js](https://ncase.me/joy/) | ♡ 👶 🧰 🌐 🔨 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [565](https://github.com/ncase/joy) | 2018
 | [Fructure](https://fructure-editor.tumblr.com) | ｟ 🧰 | A projectional editor workbench for Racket-implemented languages | Racket | [470](https://github.com/disconcision/fructure) | 2024
+| [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | [455](https://github.com/SplootCode/splootcode) | 2024
 | [tylr](https://tylr.fun) | 🎓 ⌨️ λ 🌐 | A tiny tile-based editor for well-formedly manipulating sequences of tokens | Reason | [304](https://github.com/hazelgrove/tylr) | 2025
 | [Eyg](https://eyg.run) | 👶 λ 🌐 | Minimal language to enable exploration of alternative editing methods | Gleam | [230](https://github.com/crowdhailer/eyg-lang) | 2025
 | [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | [227](https://github.com/Cirru/calcit-editor) | 2024
@@ -71,7 +72,6 @@ Project properties are summarized using unicode/emoji "flags":
 | [Javardise](https://github.com/andre-santos-pt/javardise) | 🎓 📖 | Editor for a subset of Java | Kotlin | 6 | 2025
 | [Algot](https://algot.org/about/) | 🎓 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? | ? | 2024
 | [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 🪟 | An Educational, flowcharts based graphical language | ? | ? | 2024
-| [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | - | 2023
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
 
