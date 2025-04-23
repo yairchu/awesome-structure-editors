@@ -38,7 +38,8 @@ Project properties are summarized using unicode/emoji "flags":
 - Project structure: 💵 Commercial, 🎓 Academic, ♡ Accepts donations
 - UX: 📖 Uses text files, ⤴️ Visual programming, ⌨️ Text editing like UX
 - Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript, 🧰 Language Workbench
-- Other: 🔨 Is in some production use, 🌐 Works in browser, 👨‍👩‍👧‍👦 Not intended for programmers, 文 Localization support
+- Platform support: 🌐 Works in browser, 🪟 Microsoft Windows only
+- Other: 🔨 Is in some production use, 👨‍👩‍👧‍👦 Not intended for programmers, 文 Localization support
 
 | Project | Properties | Description | Written in | ⭐️ | Updated
 |--------:|:----------:|:------------|:----------:|:--:|:-------:
@@ -71,8 +72,8 @@ Project properties are summarized using unicode/emoji "flags":
 | [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | ? | - | 2023
 | [Alfa](https://cth.altocumulus.org/~hallgren/Alfa/index.html) | 🎓 λ | An editor for Agda which doesn't allow incorrect code | Haskell | - | 2020
 | [OCell](http://kevinmahoney.co.uk/ocell/) | 👶 🌐 | ? | ? | - | 2020
-| [Algot](https://algot.org/about/) | 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? | ? | 2024
-| [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 | An Educational, flowcharts based graphical language | ? | ? | 2024  
+| [Algot](https://algot.org/about/) | 🎓 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? | ? | 2024
+| [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 🪟 | An Educational, flowcharts based graphical language | ? | ? | 2024
 
 ### Unreleased Projects
 
