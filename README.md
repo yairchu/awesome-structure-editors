@@ -34,6 +34,7 @@ As evident from the wealth of ongoing and concluded attempts listed below, this 
 This list includes projects which are actively developed or were maintained recently. Currently the bar for incomplete projects is set arbitrarily at 2020.
 
 Project properties are summarized using unicode/emoji "flags":
+
 - Project structure: 💵 Commercial, 🎓 Academic, ♡ Accepts donations
 - UX: 📖 Uses text files, ⤴️ Visual programming, ⌨️ Text editing like UX
 - Target languages: 👶 New language, λ Functional, ｟ Lisp-based, ☕ JavaScript/TypeScript, 🧰 Language Workbench
@@ -78,8 +79,8 @@ Project properties are summarized using unicode/emoji "flags":
 | Project | Properties | Description
 |--------:|:----------:|:------------
 | [Roc](https://www.roc-lang.org) | λ | A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864).
-| [Dion Systems](https://dion.systems) | |
-| [Neurion](https://neurion.co) | 💵 👶 λ |
+| [Dion Systems](https://dion.systems) | | TODO
+| [Neurion](https://neurion.co) | 💵 👶 λ | TODO
 
 ### Concluded or inactive projects
 
@@ -90,14 +91,14 @@ Project properties are summarized using unicode/emoji "flags":
 | [Eve](https://futureofcoding.org/essays/eve/) | 2014 - 2018 | 💵 👶 | A startup that made a series of experimental programming systems and was shut down in 2018.
 | [Prune](https://twitter.com/KentBeck/status/634802168508235777) | 2015 | | An internal research project in Facebook. Concluded in it "being promising" but according to them "programmers don't spend that much time manipulating programs compared to all the other things they do. Enabling programmers to do a 50% better job of a task requiring 10% of their time just doesn't make economic sense" (redacted quote).
 | [Novella](https://github.com/chrisdone/novella) | 2019 - 2020 | | A structural editor infrastructure, in 2020 author moved on to develop Inflex instead.
-| [Expressions of Change](https://www.expressionsofchange.org) | 2017 - 2018 | |
+| [Expressions of Change](https://www.expressionsofchange.org) | 2017 - 2018 | | TODO
 | [Isomorf](https://isomorf.io/#!/) | 2017? | 💵 🌐 👶 λ | A startup developing an in-browser editor for a language that can appear in a syntax of the user's choosing among a few options appearing like different popular programming language
-| [Omni](https://github.com/daniel-kun/omni) | 2013 - 2017 | 👶 |
+| [Omni](https://github.com/daniel-kun/omni) | 2013 - 2017 | 👶 | TODO
 | [Viskell](https://github.com/viskell/viskell) | 2015 - 2017 | λ | Visual programming meets Haskell
-| [Zinal](https://gitlab.com/nickcollins/zinal) | 2015 - 2017 | 👶 |
+| [Zinal](https://gitlab.com/nickcollins/zinal) | 2015 - 2017 | 👶 | TODO
 | [Golem](http://xixixao.github.io/Golem/) | 2014 - 2016 | 🎓 📖 ⌨️ 👶 λ ｟ 🌐 | Online tree editor and debugger for [Shem](https://github.com/xixixao/Shem), a functional LISP-like language which compiles to JavaScript
-| [Cedalion](http://cedalion.sourceforge.net) | ? - 2013 | 🎓 👶 |
-| [TFlow](https://www.ubitron.com/legacy/tflow) | 1994 - 1995 | 💵 👶 ⤴️ 🌐 👨‍👩‍👧‍👦 文 | Educational Graphical flow-chart based programming language with interpreter and Arduino-like compiler 
+| [Cedalion](http://cedalion.sourceforge.net) | ? - 2013 | 🎓 👶 | TODO
+| [TFlow](https://www.ubitron.com/legacy/tflow) | 1994 - 1995 | 💵 👶 ⤴️ 🌐 👨‍👩‍👧‍👦 文 | Educational Graphical flow-chart based programming language with interpreter and Arduino-like compiler
 
 ## Blocks Programming Editors
 
