@@ -79,7 +79,6 @@ Project properties are summarized using unicode/emoji "flags":
 | Project | Properties | Description
 |--------:|:----------:|:------------
 | [Roc](https://www.roc-lang.org) | λ | A performance oriented functional programming language [with a structural editor](https://youtu.be/ZnYa99QoznE?t=5864).
-| [Dion Systems](https://dion.systems) | | TODO
 | [Neurion](https://neurion.co) | 💵 👶 λ | TODO
 
 ### Concluded or inactive projects
