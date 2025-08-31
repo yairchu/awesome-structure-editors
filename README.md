@@ -43,32 +43,32 @@ Project properties are summarized using unicode/emoji "flags":
 
 | Project | Properties | Description | Written in | ⭐️ | Updated
 |--------:|:----------:|:------------|:----------:|:--:|:-------:
-| [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [7404](https://github.com/enso-org/enso) | 2025
-| [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [5982](https://github.com/unisonweb/unison) | 2025
-| [Lamdu](http://www.lamdu.org) | ♡ ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1868](https://github.com/lamdu/lamdu) | 2025
-| [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🧰 🔨 | Language workbench for projectional languages | Java | [1589](https://github.com/JetBrains/MPS) | 2025
-| [Cursorless](https://www.cursorless.org/) | ♡ 📖 🔨 | Spoken language for structural code editing | TypeScript | [1212](https://github.com/cursorless-dev/cursorless) | 2025
-| [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [916](https://github.com/hazelgrove/hazel) | 2025
-| [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 745 | 2025
-| [JOY.js](https://ncase.me/joy/) | ♡ 👶 🧰 🌐 🔨 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [565](https://github.com/ncase/joy) | 2018
-| [Fructure](https://fructure-editor.tumblr.com) | ｟ 🧰 | A projectional editor workbench for Racket-implemented languages | Racket | [470](https://github.com/disconcision/fructure) | 2024
-| [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | TypeScript | [455](https://github.com/SplootCode/splootcode) | 2024
-| [tylr](https://tylr.fun) | 🎓 ⌨️ λ 🌐 | A tiny tile-based editor for well-formedly manipulating sequences of tokens | Reason | [304](https://github.com/hazelgrove/tylr) | 2025
-| [Eyg](https://eyg.run) | 👶 λ 🌐 | Minimal language to enable exploration of alternative editing methods | Gleam | [230](https://github.com/crowdhailer/eyg-lang) | 2025
-| [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | [227](https://github.com/Cirru/calcit-editor) | 2024
-| [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | [167](https://github.com/liamoc/holbert) | 2024
-| [Vlojure](https://vlojure.io) | ⤴️ ｟ 🌐 | A novel visual UX for ClojureScript | Clojure | [145](https://github.com/Ella-Hoeppner/Vlojure) | 2022
-| [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 142 | 2022
+| [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [7432](https://github.com/enso-org/enso) | 2025
+| [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [6179](https://github.com/unisonweb/unison) | 2025
+| [Unit](https://unit.software/) | ⤴️ 👶 🌐 | A general purpose visual programming system | TypeScript | [4375](https://github.com/samuelmtimbo/unit) | 2025
+| [Lamdu](http://www.lamdu.org) | ♡ ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1872](https://github.com/lamdu/lamdu) | 2025
+| [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🧰 🔨 | Language workbench for projectional languages | Java | [1610](https://github.com/JetBrains/MPS) | 2025
+| [Cursorless](https://www.cursorless.org/) | ♡ 📖 🔨 | Spoken language for structural code editing | TypeScript | [1263](https://github.com/cursorless-dev/cursorless) | 2025
+| [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [1016](https://github.com/hazelgrove/hazel) | 2025
+| [Sapling](https://github.com/kneasle/sapling) | ⌨️ | Vim/Kakoune-inspired modal structured editor for existing languages | Rust | 753 | 2025
+| [JOY.js](https://ncase.me/joy/) | ♡ 👶 🧰 🌐 🔨 👨‍👩‍👧‍👦 | Language workbench for programmable demos | JavaScript | [568](https://github.com/ncase/joy) | 2018
+| [Fructure](https://fructure-editor.tumblr.com) | ｟ 🧰 | A projectional editor workbench for Racket-implemented languages | Racket | [477](https://github.com/disconcision/fructure) | 2024
+| [SplootCode](https://splootcode.io) | ⌨️ 🌐 | A structural editor for Python, aimed towards beginners | TypeScript | [457](https://github.com/SplootCode/splootcode) | 2024
+| [tylr](https://tylr.fun) | 🎓 ⌨️ λ 🌐 | A tiny tile-based editor for well-formedly manipulating sequences of tokens | Reason | [305](https://github.com/hazelgrove/tylr) | 2025
+| [Eyg](https://eyg.run) | 👶 λ 🌐 | Minimal language to enable exploration of alternative editing methods | Gleam | [245](https://github.com/crowdhailer/eyg-lang) | 2025
+| [Cirru](http://cirru.org) | ｟ | A tree editor for ClojureScript | Clojure | [229](https://github.com/Cirru/calcit-editor) | 2025
+| [Holbert](http://liamoc.net/holbert) | 🎓 🌐 | A graphical interactive proof assistant designed for education | Haskell | [169](https://github.com/liamoc/holbert) | 2024
+| [Vlojure](https://vlojure.io) | ⤴️ ｟ 🌐 | A novel visual UX for ClojureScript | Clojure | [146](https://github.com/Ella-Hoeppner/Vlojure) | 2022
+| [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 140 | 2022
 | [Tofu](https://github.com/Gregoor/tofu) | ♡ ☕ | VSCode extension for structured editing of JavaScript and TypeScript | TypeScript | 102 | 2024
-| [Subtext](http://www.subtext-lang.org) | 👶 | A series of inspiring presentations and projects exploring ideas in projectional editing | TypeScript | [100](https://github.com/JonathanMEdwards/subtext10) | 2022
-| [Unit](https://unit.software/) | ⤴️ 👶 🌐 | A general purpose visual programming system | TypeScript | [0](https://github.com/samuelmtimbo/unit) | 2025
-| [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | [98](https://github.com/dimitar-asenov/Envision) | 2022
-| [Freon](https://www.freon4dsl.dev/) | ⌨️ 🧰 🌐 | Web-based Projectional Language Workbench | TypeScript | [69](https://github.com/projectit-org/ProjectIt) | 2025
+| [Subtext](http://www.subtext-lang.org) | 👶 | A series of inspiring presentations and projects exploring ideas in projectional editing | TypeScript | [101](https://github.com/JonathanMEdwards/subtext10) | 2022
+| [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | [99](https://github.com/dimitar-asenov/Envision) | 2022
+| [Freon](https://www.freon4dsl.dev/) | ⌨️ 🧰 🌐 | Web-based Projectional Language Workbench | TypeScript | [70](https://github.com/projectit-org/ProjectIt) | 2025
 | [Forest](https://github.com/tehwalris/forest) | ☕ 🌐 | A prototype tree editor for TypeScript | TypeScript | 60 | 2023
-| [Lisperanto](https://github.com/uprun/lisperanto) | ♡ ｟ 🌐 | IDE for Lisp-like language | JavaScript | 43 | 2022
+| [Lisperanto](https://github.com/uprun/lisperanto) | ♡ ｟ 🌐 | IDE for Lisp-like language | JavaScript | 44 | 2025
 | [Foundry](https://github.com/int-index/foundry) | λ | A projectional editor for the Morte language | Haskell | 29 | 2025
-| [Gopcaml-mode](https://gitlab.com/gopiandcode/gopcaml-mode) | 📖 λ 🔨 | Structural editing Emacs plugin for OCaml code | OCaml | [22](https://github.com/gopiandcode/gopcaml-mode) | 2022
-| [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 18 | 2022
+| [Gopcaml-mode](https://gitlab.com/gopiandcode/gopcaml-mode) | 📖 λ 🔨 | Structural editing Emacs plugin for OCaml code | OCaml | [23](https://github.com/gopiandcode/gopcaml-mode) | 2022
+| [Frugel](https://github.com/cdfa/frugel) | 🎓 ⌨️ 👶 λ | A research exploring a novel UX for textual entry of code | Haskell | 19 | 2022
 | [Javardise](https://github.com/andre-santos-pt/javardise) | 🎓 📖 | Editor for a subset of Java | Kotlin | 6 | 2025
 | [Algot](https://algot.org/about/) | 🎓 👶 ⤴️ 👨‍👩‍👧‍👦 🌐 | A live, graph-based language for programming by demonstration | ? | ? | 2024
 | [Flowgorithm](http://www.flowgorithm.org/) | 👶 ⤴️ 👨‍👩‍👧‍👦 文 🪟 | An Educational, flowcharts based graphical language | ? | ? | 2024
