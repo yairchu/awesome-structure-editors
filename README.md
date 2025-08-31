@@ -46,7 +46,6 @@ Project properties are summarized using unicode/emoji "flags":
 | [Enso](https://enso.org) | 💵 📖 ⤴️ 👶 λ | Hybrid visual+textual programming language | Scala, Rust | [7404](https://github.com/enso-org/enso) | 2025
 | [Unison](https://unisonweb.org) | 💵 📖 👶 λ | Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first | Haskell | [5982](https://github.com/unisonweb/unison) | 2025
 | [Lamdu](http://www.lamdu.org) | ♡ ⌨️ 👶 λ 文 | Language with live programming and novel UX for type errors | Haskell | [1868](https://github.com/lamdu/lamdu) | 2025
-| [Dark](https://darklang.com) | 💵 ⌨️ 👶 λ 🌐 | Platform and language as a service for app backends and web | F#, ReScript | [1732](https://github.com/darklang/dark) | 2025
 | [MPS](https://www.jetbrains.com/mps/) | 💵 ⌨️ 🧰 🔨 | Language workbench for projectional languages | Java | [1589](https://github.com/JetBrains/MPS) | 2025
 | [Cursorless](https://www.cursorless.org/) | ♡ 📖 🔨 | Spoken language for structural code editing | TypeScript | [1212](https://github.com/cursorless-dev/cursorless) | 2025
 | [Hazel](http://hazel.org) | 🎓 ⌨️ 👶 λ 🌐 | Language with live programming and typed holes | Reason | [916](https://github.com/hazelgrove/hazel) | 2025
@@ -137,7 +136,7 @@ Not sure in which category these projects fit in:
 
 ### Related lists
 
-- [The whole code catalog](https://futureofcoding.org/catalog/) - An in-depth review of 23 structural and low-code projects by Steve Krouse from 2019. Sponsored by Dark.
+- [The whole code catalog](https://futureofcoding.org/catalog/) - An in-depth review of 23 structural and low-code projects by Steve Krouse from 2019.
 - [Gallery of programming UIs](http://alarmingdevelopment.org/?p=1068) - By Jonathan Edwards.
 - [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/) - By Eric Hosick.
 
