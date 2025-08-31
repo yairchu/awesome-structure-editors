@@ -86,6 +86,7 @@ Project properties are summarized using unicode/emoji "flags":
 
 | Project | Time_Period | Properties | Description
 |--------:|:------:|:----------:|:------------
+| [Darklang Classic](https://darklang.com) | 2017 - 2024 | 💵 ⌨️ 👶 λ 🌐 | Platform and language as a service for app backends and web with structural editor. Transitioned to text-based editing.
 | [Inflex](https://chrisdone.com/posts/inflex/) | 2020 - 2022 | 💵 🌐 👶 λ | A spreadsheet-inspired functional programming language
 | [Intentional software](https://en.wikipedia.org/wiki/Intentional_Software) | 1990s - 2017 | 💵 | Started as a Microsoft project to develop a projectional editor in the late 1990s (see [video from 2000](https://youtu.be/tSnnfUj1XCQ)), which later spun up as an independent company, which later pivoted to develop a language workbench. Despite being founded and self-funded by [a Billionaire](https://en.wikipedia.org/wiki/Charles_Simonyi), it was ultimately acquired by Microsoft at 2017, with the original projects being cancelled (afaik).
 | [Eve](https://futureofcoding.org/essays/eve/) | 2014 - 2018 | 💵 👶 | A startup that made a series of experimental programming systems and was shut down in 2018.
@@ -136,7 +137,7 @@ Not sure in which category these projects fit in:
 
 ### Related lists
 
-- [The whole code catalog](https://futureofcoding.org/catalog/) - An in-depth review of 23 structural and low-code projects by Steve Krouse from 2019.
+- [The whole code catalog](https://futureofcoding.org/catalog/) - An in-depth review of 23 structural and low-code projects by Steve Krouse from 2019. Sponsored by Dark.
 - [Gallery of programming UIs](http://alarmingdevelopment.org/?p=1068) - By Jonathan Edwards.
 - [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/) - By Eric Hosick.
 
