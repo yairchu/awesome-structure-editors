@@ -61,6 +61,7 @@ Project properties are summarized using unicode/emoji "flags":
 | [ProjecturEd](https://github.com/projectured/projectured) | 👨‍👩‍👧‍👦 | General purpose projectional editor | Common Lisp | 142 | 2022
 | [Tofu](https://github.com/Gregoor/tofu) | ♡ ☕ | VSCode extension for structured editing of JavaScript and TypeScript | TypeScript | 102 | 2024
 | [Subtext](http://www.subtext-lang.org) | 👶 | A series of inspiring presentations and projects exploring ideas in projectional editing | TypeScript | [100](https://github.com/JonathanMEdwards/subtext10) | 2022
+| [Unit](https://unit.software/) | ⤴️ 👶 🌐 🔨 | A general purpose visual programming system | TypeScript | [0](https://github.com/samuelmtimbo/unit) | 2025
 | [Envision](http://dimitar-asenov.github.io/Envision/) | 🎓 👶 | Editor for a Java/C++ like language | C++ | [98](https://github.com/dimitar-asenov/Envision) | 2022
 | [Freon](https://www.freon4dsl.dev/) | ⌨️ 🧰 🌐 | Web-based Projectional Language Workbench | TypeScript | [69](https://github.com/projectit-org/ProjectIt) | 2025
 | [Forest](https://github.com/tehwalris/forest) | ☕ 🌐 | A prototype tree editor for TypeScript | TypeScript | 60 | 2023
