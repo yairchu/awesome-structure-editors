@@ -4,7 +4,6 @@ Script to update the "Last known update" and "stars" columns
 It uses the GitHub CLI (requirement).
 """
 
-import datetime
 import json
 import subprocess
 import sys
@@ -57,6 +56,7 @@ def new_line(line, all_flags):
     if repo is None:
         return
 
+    print("Updating", repo)
     update_key = "pushedAt"
     stars_key = "stargazerCount"
     result_raw = subprocess.check_output(
@@ -69,11 +69,12 @@ def new_line(line, all_flags):
     year = int(date.split("-", 1)[0])
     flags = " ".join(sorted(flags, key=lambda x: all_flags.index(x)))
     assert len(flags) == len(prev_flags)
-    return f"| {name} | {flags} | {desc} | {impl_lang} | {stars} | {year}\n"
+    return f"| {name} | {flags} | {desc} | {impl_lang} | {stars} | {year} |\n"
 
 
 def line_order(line):
-    head, stars, prev_year = [x.strip() for x in line.rsplit("|", 2)]
+    head, stars, prev_year, blank = [x.strip() for x in line.rsplit("|", 3)]
+    assert blank == ""
     if stars.endswith(")"):
         stars, _ = get_github_repo(stars)
     return -int(stars) if stars.isdigit() else 0, -int(prev_year), head
@@ -88,7 +89,7 @@ def new_lines():
     all_flags = []
     for line in lines:
         yield line
-        if line.endswith("| ⭐️ | Updated\n"):
+        if line.endswith(" | Updated |\n"):
             break
         all_flags.extend(text_flags(line))
     else:
